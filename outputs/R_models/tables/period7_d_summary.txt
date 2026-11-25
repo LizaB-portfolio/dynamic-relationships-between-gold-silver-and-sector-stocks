@@ -1,0 +1,127 @@
+
+VAR Estimation Results:
+========================= 
+Endogenous variables: Gold, Silver, Cons_staples, Health, Utilities 
+Deterministic variables: const 
+Sample size: 782 
+Log Likelihood: -5717.266 
+Roots of the characteristic polynomial:
+0.1187 0.1187 0.06571 0.05749 0.009645
+Call:
+vars::VAR(y = as.data.frame(y), p = 1, type = "const")
+
+
+Estimation results for equation Gold: 
+===================================== 
+Gold = Gold.l1 + Silver.l1 + Cons_staples.l1 + Health.l1 + Utilities.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)   
+Gold.l1         -0.02437    0.04564  -0.534  0.59357   
+Silver.l1       -0.03033    0.02142  -1.416  0.15709   
+Cons_staples.l1  0.09424    0.07030   1.341  0.18045   
+Health.l1       -0.04355    0.05846  -0.745  0.45652   
+Utilities.l1     0.07462    0.04799   1.555  0.12036   
+const            0.11778    0.04345   2.711  0.00686 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.209 on 776 degrees of freedom
+Multiple R-Squared: 0.0145,	Adjusted R-squared: 0.008146 
+F-statistic: 2.283 on 5 and 776 DF,  p-value: 0.04481 
+
+
+Estimation results for equation Silver: 
+======================================= 
+Silver = Gold.l1 + Silver.l1 + Cons_staples.l1 + Health.l1 + Utilities.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)    
+Gold.l1          0.48589    0.09500   5.115 3.97e-07 ***
+Silver.l1       -0.14792    0.04458  -3.319 0.000947 ***
+Cons_staples.l1 -0.05748    0.14631  -0.393 0.694499    
+Health.l1        0.05889    0.12168   0.484 0.628568    
+Utilities.l1     0.18758    0.09987   1.878 0.060727 .  
+const            0.10662    0.09043   1.179 0.238752    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 2.516 on 776 degrees of freedom
+Multiple R-Squared: 0.04348,	Adjusted R-squared: 0.03732 
+F-statistic: 7.055 on 5 and 776 DF,  p-value: 1.839e-06 
+
+
+Estimation results for equation Cons_staples: 
+============================================= 
+Cons_staples = Gold.l1 + Silver.l1 + Cons_staples.l1 + Health.l1 + Utilities.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)
+Gold.l1          0.04177    0.03000   1.392    0.164
+Silver.l1       -0.01226    0.01408  -0.871    0.384
+Cons_staples.l1  0.00871    0.04620   0.189    0.851
+Health.l1       -0.06285    0.03843  -1.636    0.102
+Utilities.l1     0.03182    0.03154   1.009    0.313
+const            0.02024    0.02856   0.709    0.479
+
+
+Residual standard error: 0.7947 on 776 degrees of freedom
+Multiple R-Squared: 0.006794,	Adjusted R-squared: 0.0003947 
+F-statistic: 1.062 on 5 and 776 DF,  p-value: 0.3803 
+
+
+Estimation results for equation Health: 
+======================================= 
+Health = Gold.l1 + Silver.l1 + Cons_staples.l1 + Health.l1 + Utilities.l1 + const 
+
+                 Estimate Std. Error t value Pr(>|t|)  
+Gold.l1          0.011370   0.033837   0.336   0.7369  
+Silver.l1        0.004006   0.015876   0.252   0.8009  
+Cons_staples.l1 -0.107283   0.052110  -2.059   0.0398 *
+Health.l1       -0.012664   0.043339  -0.292   0.7702  
+Utilities.l1     0.058447   0.035572   1.643   0.1008  
+const            0.010433   0.032208   0.324   0.7461  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 0.8963 on 776 degrees of freedom
+Multiple R-Squared: 0.008698,	Adjusted R-squared: 0.002311 
+F-statistic: 1.362 on 5 and 776 DF,  p-value: 0.2365 
+
+
+Estimation results for equation Utilities: 
+========================================== 
+Utilities = Gold.l1 + Silver.l1 + Cons_staples.l1 + Health.l1 + Utilities.l1 + const 
+
+                 Estimate Std. Error t value Pr(>|t|)
+Gold.l1          0.061952   0.040622   1.525    0.128
+Silver.l1       -0.010374   0.019060  -0.544    0.586
+Cons_staples.l1  0.020358   0.062561   0.325    0.745
+Health.l1       -0.056018   0.052031  -1.077    0.282
+Utilities.l1     0.004237   0.042706   0.099    0.921
+const            0.025993   0.038667   0.672    0.502
+
+
+Residual standard error: 1.076 on 776 degrees of freedom
+Multiple R-Squared: 0.004707,	Adjusted R-squared: -0.001706 
+F-statistic: 0.734 on 5 and 776 DF,  p-value: 0.598 
+
+
+
+Covariance matrix of residuals:
+                Gold    Silver Cons_staples  Health Utilities
+Gold         1.46187  1.909272     0.091470 0.10337    0.2389
+Silver       1.90927  6.332656    -0.003471 0.05235    0.2685
+Cons_staples 0.09147 -0.003471     0.631545 0.38907    0.4307
+Health       0.10337  0.052352     0.389074 0.80334    0.3911
+Utilities    0.23887  0.268531     0.430674 0.39106    1.1579
+
+Correlation matrix of residuals:
+                Gold    Silver Cons_staples  Health Utilities
+Gold         1.00000  0.627510     0.095197 0.09538   0.18361
+Silver       0.62751  1.000000    -0.001736 0.02321   0.09917
+Cons_staples 0.09520 -0.001736     1.000000 0.54624   0.50364
+Health       0.09538  0.023211     0.546238 1.00000   0.40548
+Utilities    0.18361  0.099169     0.503637 0.40548   1.00000
+
+

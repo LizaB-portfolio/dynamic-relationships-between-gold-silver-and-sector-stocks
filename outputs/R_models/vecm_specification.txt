@@ -1,0 +1,9 @@
+VECM specification
+Cointegration rank: 1
+Lagged first differences: 1
+Equivalent VAR order in levels: 2
+Johansen deterministic case: II
+Short-run deterministic terms (tsDyn include): none
+Long-run deterministic terms (tsDyn LRinclude): const
+VECM datasets: levels3_c, levels4_c, levels1_d, levels2_d, levels4_d, levels6_d, levels1_m
+The rank is imposed for estimation; it is not re-selected by this script.

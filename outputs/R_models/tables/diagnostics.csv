@@ -1,0 +1,281 @@
+"model","test","variable","statistic","df","p_value"
+"period1_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,526.504192241663,540,0.653137811813218
+"period1_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,533.016529915586,540,0.576564950302704
+"period1_c","ARCH-LM(5)","Gold",0.228012330591817,5,0.998782391982613
+"period1_c","Jarque-Bera (univariate residual)","Gold",4770.45996837944,2,0
+"period1_c","ARCH-LM(5)","Silver",1.32589215781145,5,0.932244978786805
+"period1_c","Jarque-Bera (univariate residual)","Silver",2182.50488729594,2,0
+"period1_c","ARCH-LM(5)","Cons_discr",12.5713712986183,5,0.0277442876512612
+"period1_c","Jarque-Bera (univariate residual)","Cons_discr",53.9492848693041,2,1.92779850577969e-12
+"period1_c","ARCH-LM(5)","Financials",14.8817288220738,5,0.0108798286207319
+"period1_c","Jarque-Bera (univariate residual)","Financials",48.0733155525333,2,3.63925229347506e-11
+"period1_c","ARCH-LM(5)","Industrials",9.86719079313787,5,0.0790869943033177
+"period1_c","Jarque-Bera (univariate residual)","Industrials",62.6762553051053,2,2.4548450652176e-14
+"period1_c","ARCH-LM(5)","Materials",16.1911907386925,5,0.00631889445876704
+"period1_c","Jarque-Bera (univariate residual)","Materials",103.669225925904,2,3.07973691432785e-23
+"period2_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,590.023423982421,540,0.0671076096652284
+"period2_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,609.654324686095,540,0.0199512473969257
+"period2_c","ARCH-LM(5)","Gold",11.5444938178717,5,0.041591424213332
+"period2_c","Jarque-Bera (univariate residual)","Gold",17.7586740028555,2,0.000139236448533225
+"period2_c","ARCH-LM(5)","Silver",1.26848432107583,5,0.938140961204945
+"period2_c","Jarque-Bera (univariate residual)","Silver",7.41512496934948,2,0.0245372603852395
+"period2_c","ARCH-LM(5)","Cons_discr",24.1968016082937,5,0.00019899824831804
+"period2_c","Jarque-Bera (univariate residual)","Cons_discr",259.277534831535,2,4.99572668945523e-57
+"period2_c","ARCH-LM(5)","Financials",18.1865015087903,5,0.00272152336650341
+"period2_c","Jarque-Bera (univariate residual)","Financials",106.407038514259,2,7.83438966880865e-24
+"period2_c","ARCH-LM(5)","Industrials",16.1519278377304,5,0.00642343723445062
+"period2_c","Jarque-Bera (univariate residual)","Industrials",103.427856228208,2,3.4747725538975e-23
+"period2_c","ARCH-LM(5)","Materials",12.5729696492059,5,0.0277266449888886
+"period2_c","Jarque-Bera (univariate residual)","Materials",116.748183550065,2,4.45096373686655e-26
+"period3_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,562.593732684747,540,0.242475298679755
+"period3_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,570.262884467428,540,0.177638070308664
+"period3_c","ARCH-LM(5)","Gold",7.97874150058284,5,0.157411123344081
+"period3_c","Jarque-Bera (univariate residual)","Gold",128.907877344941,2,1.01861507120973e-28
+"period3_c","ARCH-LM(5)","Silver",21.2102782380281,5,0.000739201887167507
+"period3_c","Jarque-Bera (univariate residual)","Silver",108.153646089209,2,3.27140379289772e-24
+"period3_c","ARCH-LM(5)","Cons_discr",95.0784473002627,5,5.74842928964248e-19
+"period3_c","Jarque-Bera (univariate residual)","Cons_discr",229.36738912468,2,1.56136445147758e-50
+"period3_c","ARCH-LM(5)","Financials",20.4636087730518,5,0.00102253349098198
+"period3_c","Jarque-Bera (univariate residual)","Financials",256.22200748202,2,2.3019612262602e-56
+"period3_c","ARCH-LM(5)","Industrials",24.8838109632075,5,0.000146718427658015
+"period3_c","Jarque-Bera (univariate residual)","Industrials",259.555341406514,2,4.34784185804961e-57
+"period3_c","ARCH-LM(5)","Materials",42.073789014827,5,5.69131605103778e-08
+"period3_c","Jarque-Bera (univariate residual)","Materials",62.3741206138971,2,2.85516888355541e-14
+"period4_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,672.713806213919,540,8.22758334980689e-05
+"period4_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,700.565711742563,540,3.54067698149496e-06
+"period4_c","ARCH-LM(5)","Gold",51.2409424917565,5,7.71942890617158e-10
+"period4_c","Jarque-Bera (univariate residual)","Gold",219.154846835024,2,2.57709049173719e-48
+"period4_c","ARCH-LM(5)","Silver",10.4920346579047,5,0.0624353145739198
+"period4_c","Jarque-Bera (univariate residual)","Silver",902.115568808677,2,1.28260584195073e-196
+"period4_c","ARCH-LM(5)","Cons_discr",66.7137722848046,5,4.94094001104739e-13
+"period4_c","Jarque-Bera (univariate residual)","Cons_discr",592.465876795,2,2.22673992487382e-129
+"period4_c","ARCH-LM(5)","Financials",62.7537539062403,5,3.27390087136995e-12
+"period4_c","Jarque-Bera (univariate residual)","Financials",289.525023753784,2,1.35032996584991e-63
+"period4_c","ARCH-LM(5)","Industrials",56.4675147559428,5,6.51049775731331e-11
+"period4_c","Jarque-Bera (univariate residual)","Industrials",333.759939144098,2,3.34926934646735e-73
+"period4_c","ARCH-LM(5)","Materials",50.1331493701738,5,1.30152173224838e-09
+"period4_c","Jarque-Bera (univariate residual)","Materials",384.150662056038,2,3.82598818710014e-84
+"period5_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,518.068613172264,540,0.744167815423247
+"period5_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,537.900250702443,540,0.517421030240016
+"period5_c","ARCH-LM(5)","Gold",4.04940879804537,5,0.542324465318733
+"period5_c","Jarque-Bera (univariate residual)","Gold",61.4704790844809,2,4.48595659178162e-14
+"period5_c","ARCH-LM(5)","Silver",118.166433716793,5,7.67402798570368e-24
+"period5_c","Jarque-Bera (univariate residual)","Silver",519.829959539806,2,1.31934544475273e-113
+"period5_c","ARCH-LM(5)","Cons_discr",29.2602833800622,5,2.06144443687724e-05
+"period5_c","Jarque-Bera (univariate residual)","Cons_discr",14.0104739352168,2,0.00090711895199788
+"period5_c","ARCH-LM(5)","Financials",6.36628492754133,5,0.272191037295091
+"period5_c","Jarque-Bera (univariate residual)","Financials",1.63726731768432,2,0.441033845708394
+"period5_c","ARCH-LM(5)","Industrials",20.5697667603988,5,0.000976529378742298
+"period5_c","Jarque-Bera (univariate residual)","Industrials",1.6926832581284,2,0.428981437996257
+"period5_c","ARCH-LM(5)","Materials",5.64422065031615,5,0.342390548293964
+"period5_c","Jarque-Bera (univariate residual)","Materials",9.0381963856861,2,0.010898847897145
+"period6_c","Portmanteau asymptotic (h=16, level VAR p=1)",NA,515.222602645262,540,0.771995910815465
+"period6_c","Portmanteau adjusted (h=16, level VAR p=1)",NA,539.949132091077,540,0.492524229057159
+"period6_c","ARCH-LM(5)","Gold",4.4117920338225,5,0.49177138306344
+"period6_c","Jarque-Bera (univariate residual)","Gold",8.11357152725216,2,0.0173045507380725
+"period6_c","ARCH-LM(5)","Silver",9.13384579996823,5,0.10384312395562
+"period6_c","Jarque-Bera (univariate residual)","Silver",2.16350314343283,2,0.339001220363303
+"period6_c","ARCH-LM(5)","Cons_discr",1.74500363659969,5,0.883181999156564
+"period6_c","Jarque-Bera (univariate residual)","Cons_discr",6.03579367445102,2,0.0489039632745868
+"period6_c","ARCH-LM(5)","Financials",0.827386583312391,5,0.975253752500972
+"period6_c","Jarque-Bera (univariate residual)","Financials",2.40925028944464,2,0.299804361699406
+"period6_c","ARCH-LM(5)","Industrials",3.73119350271283,5,0.588728825750166
+"period6_c","Jarque-Bera (univariate residual)","Industrials",1.08313949010592,2,0.58183420378702
+"period6_c","ARCH-LM(5)","Materials",0.468648264302864,5,0.993226332945765
+"period6_c","Jarque-Bera (univariate residual)","Materials",1.0444721833675,2,0.593192630742706
+"period7_c","Portmanteau asymptotic (h=16, level VAR p=2)",NA,575.610138041739,510,0.0231322953543909
+"period7_c","Portmanteau adjusted (h=16, level VAR p=2)",NA,582.332108190469,510,0.0143915502376278
+"period7_c","ARCH-LM(5)","Gold",94.688851863869,5,6.94272067644157e-19
+"period7_c","Jarque-Bera (univariate residual)","Gold",947.301218335851,2,1.97767119600232e-206
+"period7_c","ARCH-LM(5)","Silver",147.705502053068,5,4.11019233540404e-30
+"period7_c","Jarque-Bera (univariate residual)","Silver",4650.45278473623,2,0
+"period7_c","ARCH-LM(5)","Cons_discr",65.2408822051098,5,9.98927661747328e-13
+"period7_c","Jarque-Bera (univariate residual)","Cons_discr",614.440528693086,2,3.76646959081615e-134
+"period7_c","ARCH-LM(5)","Financials",36.0175046470237,5,9.42183891534603e-07
+"period7_c","Jarque-Bera (univariate residual)","Financials",5583.23335615166,2,0
+"period7_c","ARCH-LM(5)","Industrials",128.711613581887,5,4.46638585917707e-26
+"period7_c","Jarque-Bera (univariate residual)","Industrials",1671.40036774759,2,0
+"period7_c","ARCH-LM(5)","Materials",92.5712945031906,5,1.93610519591989e-18
+"period7_c","Jarque-Bera (univariate residual)","Materials",1043.85785054861,2,2.13377099666526e-227
+"period1_d","Portmanteau asymptotic (h=16, level VAR p=1)",NA,415.847876994448,375,0.0714973671313099
+"period1_d","Portmanteau adjusted (h=16, level VAR p=1)",NA,420.94415378975,375,0.0507367841346841
+"period1_d","ARCH-LM(5)","Gold",0.34714716330948,5,0.996661219278512
+"period1_d","Jarque-Bera (univariate residual)","Gold",4409.93684074067,2,0
+"period1_d","ARCH-LM(5)","Silver",0.742241743070041,5,0.980570169164527
+"period1_d","Jarque-Bera (univariate residual)","Silver",1834.15262976829,2,0
+"period1_d","ARCH-LM(5)","Cons_staples",9.7471894906941,5,0.0827237548256944
+"period1_d","Jarque-Bera (univariate residual)","Cons_staples",88.9134153250458,2,4.92830047487278e-20
+"period1_d","ARCH-LM(5)","Health",42.0149344806791,5,5.84955984727703e-08
+"period1_d","Jarque-Bera (univariate residual)","Health",47.7535729418599,2,4.27015254746721e-11
+"period1_d","ARCH-LM(5)","Utilities",7.40666391395847,5,0.192109831583277
+"period1_d","Jarque-Bera (univariate residual)","Utilities",109.319637487551,2,1.82617476735242e-24
+"period2_d","Portmanteau asymptotic (h=16, level VAR p=1)",NA,373.302292040874,375,0.515048439398689
+"period2_d","Portmanteau adjusted (h=16, level VAR p=1)",NA,385.248558115988,375,0.346362388187276
+"period2_d","ARCH-LM(5)","Gold",15.6190165612944,5,0.008020315580217
+"period2_d","Jarque-Bera (univariate residual)","Gold",23.1579953942757,2,9.36063247972179e-06
+"period2_d","ARCH-LM(5)","Silver",0.919439910556719,5,0.968798332972308
+"period2_d","Jarque-Bera (univariate residual)","Silver",13.4506184801095,2,0.00120014938785797
+"period2_d","ARCH-LM(5)","Cons_staples",34.9632914345053,5,1.53024558321252e-06
+"period2_d","Jarque-Bera (univariate residual)","Cons_staples",63.7363649799803,2,1.44485477087184e-14
+"period2_d","ARCH-LM(5)","Health",28.5171893807543,5,2.88331277706898e-05
+"period2_d","Jarque-Bera (univariate residual)","Health",74.4296486742114,2,6.88346558445966e-17
+"period2_d","ARCH-LM(5)","Utilities",9.62695272727545,5,0.0865223327378714
+"period2_d","Jarque-Bera (univariate residual)","Utilities",68.9585346492352,2,1.0613153873775e-15
+"period3_d","Portmanteau asymptotic (h=16, level VAR p=1)",NA,371.216268448013,375,0.545485310784575
+"period3_d","Portmanteau adjusted (h=16, level VAR p=1)",NA,376.699591872625,375,0.46561238865839
+"period3_d","ARCH-LM(5)","Gold",7.54706050689362,5,0.183028138045581
+"period3_d","Jarque-Bera (univariate residual)","Gold",118.66061697047,2,1.71070220532293e-26
+"period3_d","ARCH-LM(5)","Silver",16.9989118978729,5,0.0045018610557121
+"period3_d","Jarque-Bera (univariate residual)","Silver",102.151772300152,2,6.57694918937169e-23
+"period3_d","ARCH-LM(5)","Cons_staples",31.6941769118528,5,6.82984899997256e-06
+"period3_d","Jarque-Bera (univariate residual)","Cons_staples",198.552996884854,2,7.66945570957013e-44
+"period3_d","ARCH-LM(5)","Health",48.1076093743828,5,3.37672606885253e-09
+"period3_d","Jarque-Bera (univariate residual)","Health",265.831286875836,2,1.88568651915212e-58
+"period3_d","ARCH-LM(5)","Utilities",8.70781774159171,5,0.121301372527212
+"period3_d","Jarque-Bera (univariate residual)","Utilities",62.769626065808,2,2.34287373793016e-14
+"period4_d","Portmanteau asymptotic (h=16, level VAR p=2)",NA,512.873231622283,355,7.78114057631285e-08
+"period4_d","Portmanteau adjusted (h=16, level VAR p=2)",NA,533.08479176886,355,2.70539146640658e-09
+"period4_d","ARCH-LM(5)","Gold",45.5580629769902,5,1.11720152028187e-08
+"period4_d","Jarque-Bera (univariate residual)","Gold",385.97672130242,2,1.53539420676003e-84
+"period4_d","ARCH-LM(5)","Silver",19.7250932051386,5,0.00140719071517903
+"period4_d","Jarque-Bera (univariate residual)","Silver",1398.47723347702,2,2.11118949779993e-304
+"period4_d","ARCH-LM(5)","Cons_staples",15.246519469163,5,0.00935933206603715
+"period4_d","Jarque-Bera (univariate residual)","Cons_staples",2995.94002270745,2,0
+"period4_d","ARCH-LM(5)","Health",42.4201522383323,5,4.8427858878306e-08
+"period4_d","Jarque-Bera (univariate residual)","Health",352.623165994346,2,2.68443200915501e-77
+"period4_d","ARCH-LM(5)","Utilities",18.3574739493018,5,0.00253019829125759
+"period4_d","Jarque-Bera (univariate residual)","Utilities",1849.05315334479,2,0
+"period5_d","Portmanteau asymptotic (h=16, level VAR p=1)",NA,366.519526444069,375,0.61318737738368
+"period5_d","Portmanteau adjusted (h=16, level VAR p=1)",NA,379.776959570491,375,0.421516541711189
+"period5_d","ARCH-LM(5)","Gold",3.60703082539673,5,0.607257955060956
+"period5_d","Jarque-Bera (univariate residual)","Gold",53.5829999156992,2,2.31525806868506e-12
+"period5_d","ARCH-LM(5)","Silver",110.873710638033,5,2.67817213165671e-22
+"period5_d","Jarque-Bera (univariate residual)","Silver",420.3128849983,2,5.37299809019842e-92
+"period5_d","ARCH-LM(5)","Cons_staples",7.83852702714738,5,0.165362118939931
+"period5_d","Jarque-Bera (univariate residual)","Cons_staples",9.0739572520382,2,0.0107057036726398
+"period5_d","ARCH-LM(5)","Health",2.9457104110442,5,0.70835553109867
+"period5_d","Jarque-Bera (univariate residual)","Health",29.8248918799589,2,3.33892771149039e-07
+"period5_d","ARCH-LM(5)","Utilities",0.395647218457802,5,0.995448636720434
+"period5_d","Jarque-Bera (univariate residual)","Utilities",4.46282800994866,2,0.107376491846765
+"period6_d","Portmanteau asymptotic (h=16, level VAR p=2)",NA,377.501625660422,355,0.197064283756088
+"period6_d","Portmanteau adjusted (h=16, level VAR p=2)",NA,396.912095992932,355,0.0618095554894557
+"period6_d","ARCH-LM(5)","Gold",7.18890514737571,5,0.206966022045069
+"period6_d","Jarque-Bera (univariate residual)","Gold",10.8380532872727,2,0.00443145793706394
+"period6_d","ARCH-LM(5)","Silver",10.2061325949218,5,0.0696008675993039
+"period6_d","Jarque-Bera (univariate residual)","Silver",13.6832226325993,2,0.00106838051301987
+"period6_d","ARCH-LM(5)","Cons_staples",1.63294757764701,5,0.897236569592145
+"period6_d","Jarque-Bera (univariate residual)","Cons_staples",162.237939269635,2,5.89493621042378e-36
+"period6_d","ARCH-LM(5)","Health",5.56383189216379,5,0.350997240230604
+"period6_d","Jarque-Bera (univariate residual)","Health",4.86726281635281,2,0.0877177146830697
+"period6_d","ARCH-LM(5)","Utilities",6.3929555454921,5,0.269837627125162
+"period6_d","Jarque-Bera (univariate residual)","Utilities",1.64252466088388,2,0.439876034982423
+"period7_d","Portmanteau asymptotic (h=16, level VAR p=1)",NA,417.299648420392,375,0.0649926192630873
+"period7_d","Portmanteau adjusted (h=16, level VAR p=1)",NA,422.004777761299,375,0.0471059869834868
+"period7_d","ARCH-LM(5)","Gold",95.4159196117958,5,4.88121805075988e-19
+"period7_d","Jarque-Bera (univariate residual)","Gold",1027.13114955456,2,9.1475497211266e-224
+"period7_d","ARCH-LM(5)","Silver",167.206549821695,5,2.8775724296107e-34
+"period7_d","Jarque-Bera (univariate residual)","Silver",4538.90623883981,2,0
+"period7_d","ARCH-LM(5)","Cons_staples",59.2465114019767,5,1.73938688798985e-11
+"period7_d","Jarque-Bera (univariate residual)","Cons_staples",219.428870413131,2,2.24711968727274e-48
+"period7_d","ARCH-LM(5)","Health",65.1860362879519,5,1.02544491820291e-12
+"period7_d","Jarque-Bera (univariate residual)","Health",244.052461687892,2,1.01083738837047e-53
+"period7_d","ARCH-LM(5)","Utilities",8.4830594125051,5,0.131546306641708
+"period7_d","Jarque-Bera (univariate residual)","Utilities",149.001794668632,2,4.41236459228368e-33
+"period1_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,615.082608698447,540,0.0136674646372049
+"period1_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,622.412943507187,540,0.00796555781439323
+"period1_m","ARCH-LM(5)","Gold",0.313699583609893,5,0.997377463893834
+"period1_m","Jarque-Bera (univariate residual)","Gold",4502.72626214515,2,0
+"period1_m","ARCH-LM(5)","Silver",0.821144664108918,5,0.975665110930368
+"period1_m","Jarque-Bera (univariate residual)","Silver",2058.28443515478,2,0
+"period1_m","ARCH-LM(5)","Inf_tech",9.79904152462199,5,0.0811337290487823
+"period1_m","Jarque-Bera (univariate residual)","Inf_tech",61.7898990422541,2,3.82378886596498e-14
+"period1_m","ARCH-LM(5)","Real_estate",19.1331463615995,5,0.00181539639225128
+"period1_m","Jarque-Bera (univariate residual)","Real_estate",127.23791573842,2,2.34767325781609e-28
+"period1_m","ARCH-LM(5)","Telecom",9.96587252778284,5,0.0762080282560727
+"period1_m","Jarque-Bera (univariate residual)","Telecom",76.1025629465948,2,2.98221140522717e-17
+"period1_m","ARCH-LM(5)","Energy",43.3824062260655,5,3.09095101895578e-08
+"period1_m","Jarque-Bera (univariate residual)","Energy",234.178810480977,2,1.40837210537789e-51
+"period2_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,496.630620649012,540,0.909281638871758
+"period2_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,513.333275863873,540,0.789539836205725
+"period2_m","ARCH-LM(5)","Gold",13.7504798717589,5,0.0172745505761048
+"period2_m","Jarque-Bera (univariate residual)","Gold",23.8741193338958,2,6.54336062822553e-06
+"period2_m","ARCH-LM(5)","Silver",0.57419865136504,5,0.989154069783305
+"period2_m","Jarque-Bera (univariate residual)","Silver",11.1787052296029,2,0.00373744664930203
+"period2_m","ARCH-LM(5)","Inf_tech",32.5909220989278,5,4.53698897576703e-06
+"period2_m","Jarque-Bera (univariate residual)","Inf_tech",229.551445048439,2,1.42408873575496e-50
+"period2_m","ARCH-LM(5)","Real_estate",11.7725645039771,5,0.0380406269380155
+"period2_m","Jarque-Bera (univariate residual)","Real_estate",47.2115422327664,2,5.59943055829109e-11
+"period2_m","ARCH-LM(5)","Telecom",4.62594451299972,5,0.463211322744488
+"period2_m","Jarque-Bera (univariate residual)","Telecom",49.947082908303,2,1.42603029824571e-11
+"period2_m","ARCH-LM(5)","Energy",18.3040404328809,5,0.00258853052794384
+"period2_m","Jarque-Bera (univariate residual)","Energy",10.5551020165635,2,0.00510491739709099
+"period3_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,535.73994701381,540,0.543664672558132
+"period3_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,543.251162174622,540,0.452633899129309
+"period3_m","ARCH-LM(5)","Gold",6.88458800319782,5,0.229366127122529
+"period3_m","Jarque-Bera (univariate residual)","Gold",109.716621365882,2,1.49740191383057e-24
+"period3_m","ARCH-LM(5)","Silver",17.1434976917397,5,0.004235538483262
+"period3_m","Jarque-Bera (univariate residual)","Silver",100.21415299125,2,1.73289869093275e-22
+"period3_m","ARCH-LM(5)","Inf_tech",70.8601475583893,5,6.7856267013054e-14
+"period3_m","Jarque-Bera (univariate residual)","Inf_tech",248.969165964064,2,8.65032707736072e-55
+"period3_m","ARCH-LM(5)","Real_estate",21.5660051367339,5,0.000632982284426142
+"period3_m","Jarque-Bera (univariate residual)","Real_estate",68.1543973844749,2,1.58657515528791e-15
+"period3_m","ARCH-LM(5)","Telecom",12.3903973983617,5,0.0298128231582819
+"period3_m","Jarque-Bera (univariate residual)","Telecom",165.743124851452,2,1.02173373243658e-36
+"period3_m","ARCH-LM(5)","Energy",10.2547952202673,5,0.0683293714080461
+"period3_m","Jarque-Bera (univariate residual)","Energy",86.7890350686644,2,1.42560920202145e-19
+"period4_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,717.773736457619,540,4.13845742897045e-07
+"period4_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,745.535786735,540,9.52727841063705e-09
+"period4_m","ARCH-LM(5)","Gold",35.7219456703159,5,1.07953846947323e-06
+"period4_m","Jarque-Bera (univariate residual)","Gold",976.673343656363,2,8.28091094245223e-213
+"period4_m","ARCH-LM(5)","Silver",22.9714497571219,5,0.000341834819515001
+"period4_m","Jarque-Bera (univariate residual)","Silver",1835.35708608245,2,0
+"period4_m","ARCH-LM(5)","Inf_tech",57.0643084886973,5,4.90494392275968e-11
+"period4_m","Jarque-Bera (univariate residual)","Inf_tech",269.538712473619,2,2.95401201019035e-59
+"period4_m","ARCH-LM(5)","Real_estate",26.8816338573544,5,6.01510070549174e-05
+"period4_m","Jarque-Bera (univariate residual)","Real_estate",573.681956528437,2,2.67021330847957e-125
+"period4_m","ARCH-LM(5)","Telecom",58.2060143324636,5,2.85220673383224e-11
+"period4_m","Jarque-Bera (univariate residual)","Telecom",198.592235435135,2,7.5204529899319e-44
+"period4_m","ARCH-LM(5)","Energy",37.528107304714,5,4.69313577619537e-07
+"period4_m","Jarque-Bera (univariate residual)","Energy",286.35754949457,2,6.58033799697934e-63
+"period5_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,536.628267115924,540,0.532881200966348
+"period5_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,555.746041044531,540,0.310371956376981
+"period5_m","ARCH-LM(5)","Gold",3.69721969420658,5,0.593777767245313
+"period5_m","Jarque-Bera (univariate residual)","Gold",61.0937022462382,2,5.41590599631964e-14
+"period5_m","ARCH-LM(5)","Silver",122.411356844105,5,9.67970925627886e-25
+"period5_m","Jarque-Bera (univariate residual)","Silver",576.984066174839,2,5.12273578743889e-126
+"period5_m","ARCH-LM(5)","Inf_tech",17.5040893801093,5,0.00363665085279836
+"period5_m","Jarque-Bera (univariate residual)","Inf_tech",19.4709476234285,2,5.91476432640381e-05
+"period5_m","ARCH-LM(5)","Real_estate",5.08533959614013,5,0.405554332793424
+"period5_m","Jarque-Bera (univariate residual)","Real_estate",17.6568704180202,2,0.000146507313535363
+"period5_m","ARCH-LM(5)","Telecom",20.1621130472596,5,0.00116513942898946
+"period5_m","Jarque-Bera (univariate residual)","Telecom",159.034824080276,2,2.92433239806064e-35
+"period5_m","ARCH-LM(5)","Energy",3.8170315963971,5,0.576048208916684
+"period5_m","Jarque-Bera (univariate residual)","Energy",0.879580560970308,2,0.644171502252998
+"period6_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,534.235967032351,540,0.561871553004873
+"period6_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,560.452353289046,540,0.262752704380927
+"period6_m","ARCH-LM(5)","Gold",4.44546816483475,5,0.487212596393307
+"period6_m","Jarque-Bera (univariate residual)","Gold",10.7726764233814,2,0.00457870893878077
+"period6_m","ARCH-LM(5)","Silver",8.21308268349784,5,0.14487662944417
+"period6_m","Jarque-Bera (univariate residual)","Silver",4.41245994836641,2,0.110115003366004
+"period6_m","ARCH-LM(5)","Inf_tech",2.4963028404587,5,0.777051767501233
+"period6_m","Jarque-Bera (univariate residual)","Inf_tech",2.47186581309077,2,0.29056356723394
+"period6_m","ARCH-LM(5)","Real_estate",3.24752536294874,5,0.661884600089984
+"period6_m","Jarque-Bera (univariate residual)","Real_estate",3.95199489679726,2,0.138622973998367
+"period6_m","ARCH-LM(5)","Telecom",0.596289622084836,5,0.988172493672403
+"period6_m","Jarque-Bera (univariate residual)","Telecom",1.62929643977034,2,0.442795066466112
+"period6_m","ARCH-LM(5)","Energy",9.51539009480059,5,0.0901902927550913
+"period6_m","Jarque-Bera (univariate residual)","Energy",8.29490248153532,2,0.0158046474346361
+"period7_m","Portmanteau asymptotic (h=16, level VAR p=1)",NA,610.034696753224,540,0.0194410258634615
+"period7_m","Portmanteau adjusted (h=16, level VAR p=1)",NA,616.76355958466,540,0.0121114943143998
+"period7_m","ARCH-LM(5)","Gold",91.8254602568309,5,2.77797289863182e-18
+"period7_m","Jarque-Bera (univariate residual)","Gold",965.168987461374,2,2.60745799395649e-210
+"period7_m","ARCH-LM(5)","Silver",146.024760024709,5,9.36431909575048e-30
+"period7_m","Jarque-Bera (univariate residual)","Silver",4620.41020354802,2,0
+"period7_m","ARCH-LM(5)","Inf_tech",69.7909829534447,5,1.13273813366131e-13
+"period7_m","Jarque-Bera (univariate residual)","Inf_tech",1608.9179289666,2,0
+"period7_m","ARCH-LM(5)","Real_estate",45.8945064511303,5,9.54249872100726e-09
+"period7_m","Jarque-Bera (univariate residual)","Real_estate",168.500138727228,2,2.57430366752235e-37
+"period7_m","ARCH-LM(5)","Telecom",50.1316528336153,5,1.30243994078827e-09
+"period7_m","Jarque-Bera (univariate residual)","Telecom",483.612159025705,2,9.65948509990219e-106
+"period7_m","ARCH-LM(5)","Energy",128.698251793561,5,4.49563586295311e-26
+"period7_m","Jarque-Bera (univariate residual)","Energy",613.622749466379,2,5.66908499408598e-134

@@ -1,0 +1,8 @@
+Portmanteau calibration:
+VECM models were converted using tsDyn:::vec2var.tsDyn() and tested with vars::serial.test(type='PT.asymptotic').
+For varest VAR objects, vars uses df = K^2 * (h - p).
+For vec2var objects (VECM), vars uses its vec2var-specific calibration df = K^2 * (h - p) + K.
+For VECM(lag=1), the equivalent level VAR order is p=2; the imposed cointegration rank is r=1.
+VECM deterministic specification: Case II (include=none, LRinclude=const).
+No arbitrary subtraction of r from the degrees of freedom is applied.
+Both asymptotic and finite-sample adjusted Portmanteau statistics are saved.

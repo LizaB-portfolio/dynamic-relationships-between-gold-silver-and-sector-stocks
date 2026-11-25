@@ -1,0 +1,33 @@
+MODEL SPECIFICATION
+
+VECM models:
+levels7_c, levels4_d, levels6_d
+Cointegration rank r = 1
+Lagged differences = 1
+Equivalent VAR order in levels = 2
+Deterministic specification: Case II, restricted constant.
+
+VAR models:
+period1_c, period2_c, period3_c, period4_c, period5_c, period6_c, period1_d, period2_d, period3_d, period5_d, period7_d, period1_m, period2_m, period3_m, period4_m, period5_m, period6_m, period7_m
+VAR order = 1.
+Deterministic specification: unrestricted intercept.
+
+IRF:
+OIRF uses Cholesky decomposition and depends on variable ordering.
+GIRF does not depend on variable ordering.
+
+FEVD:
+OFEVD is based on orthogonalized shocks.
+GFEVD is based on generalized shocks and is normalized to 100 percent.
+
+Bootstrap:
+Bootstrap replications requested: 500
+Confidence level: 0.95
+Wild residual bootstrap uses a common Rademacher multiplier
+for the residual vector at each time point.
+Bootstrap confidence intervals are calculated for IRFs, not FEVD.
+
+Stability:
+For a cointegrated system with rank r, k-r unit roots are expected.
+These roots represent common stochastic trends and are not
+classified as explosive transitory roots.

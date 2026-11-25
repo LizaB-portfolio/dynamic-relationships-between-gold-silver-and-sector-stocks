@@ -1,0 +1,23 @@
+#############
+###Model VECM 
+#############
+Full sample size: 191 	End sample size: 189
+Number of variables: 5 	Number of estimated slope parameters 30
+AIC -8597.267 	BIC -8487.048 	SSR 0.1728193
+Cointegrating vector (estimated by ML):
+   Gold     Silver Cons_staples   Health  Utilities     const
+r1    1 -0.5689999   -0.1824898 1.038549 -0.3450366 -10.11725
+
+
+                      ECT                 Gold -1             Silver -1          
+Equation Gold         -0.0031(0.0294)     -0.0810(0.0923)     0.0496(0.0419)     
+Equation Silver       0.0671(0.0610)      0.6082(0.1912)**    -0.1315(0.0868)    
+Equation Cons_staples 0.0728(0.0372).     0.1505(0.1167)      -0.0388(0.0530)    
+Equation Health       -0.0206(0.0395)     0.2168(0.1240).     -0.0395(0.0563)    
+Equation Utilities    0.1653(0.0434)***   -0.0538(0.1360)     0.1095(0.0617).    
+                      Cons_staples -1     Health -1          Utilities -1       
+Equation Gold         -0.1134(0.0944)     0.1016(0.0866)     0.0907(0.0698)     
+Equation Silver       0.1355(0.1955)      0.2092(0.1793)     -0.0677(0.1446)    
+Equation Cons_staples 0.0927(0.1193)      0.0152(0.1095)     -0.1287(0.0883)    
+Equation Health       -0.0712(0.1268)     0.1452(0.1163)     -0.0236(0.0938)    
+Equation Utilities    -0.2256(0.1390)     0.2161(0.1275).    -0.0880(0.1028)    

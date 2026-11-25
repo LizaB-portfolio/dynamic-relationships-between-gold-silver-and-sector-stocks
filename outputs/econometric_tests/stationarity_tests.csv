@@ -1,0 +1,665 @@
+﻿dataset,data_type,period,group,n_obs,n_variables,start_date,end_date,variable,regression,alpha,adf_statistic,adf_pvalue,adf_used_lag,adf_nobs,adf_critical_1pct,adf_critical_5pct,adf_critical_10pct,adf_icbest,kpss_statistic,kpss_pvalue,kpss_used_lags,kpss_critical_1pct,kpss_critical_5pct,kpss_critical_10pct,kpss_warning,adf_reject_unit_root,kpss_reject_stationarity,combined_conclusion
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Gold,c,0.05,-27.796775211173667,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2279.2678809043064,0.04322754007768213,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Silver,c,0.05,-29.146262579663656,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2904.930376943367,0.049826937931465365,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Cons_discr,c,0.05,-27.319331372478054,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,1922.7621399582463,0.038150841725252335,0.1,17,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Financials,c,0.05,-28.45465697607346,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2059.6969993173134,0.06441511247187921,0.1,14,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Industrials,c,0.05,-27.991372513074836,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,1970.2888686021633,0.12720629851496315,0.1,14,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_c,returns,1,c,714,6,2012-01-24,2015-07-31,Materials,c,0.05,-26.646219103012704,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2139.508717289389,0.11605489878027653,0.1,14,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Gold,c,0.05,-16.3755519841549,2.7834432467435915e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,833.914912136092,0.31478115199184104,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Silver,c,0.05,-16.16827745913313,4.392180530675758e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,1104.1281951229332,0.15114764646530482,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Cons_discr,c,0.05,-16.243655512235225,3.7056552717927495e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,853.4841447271458,0.08658541110213298,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Financials,c,0.05,-16.52657911170395,2.041491168916272e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,953.4737004597063,0.39615822194855793,0.07881111122906986,0,0.739,0.463,0.347,,True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Industrials,c,0.05,-16.837334264712823,1.1453675805501814e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,848.9167936468574,0.09872397461254888,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_c,returns,2,c,281,6,2015-08-03,2016-12-28,Materials,c,0.05,-16.566417246086797,1.8871499144982842e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,967.9222137621324,0.09556402073158293,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Gold,c,0.05,-25.95214845337181,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1371.2004744434657,0.12569950206275496,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Silver,c,0.05,-24.70157851829984,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2039.788313434636,0.09306081492405295,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Cons_discr,c,0.05,-26.882022027862035,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1813.7522382487184,0.052148368462746224,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Financials,c,0.05,-26.683439822588806,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1937.344810958559,0.05742566454116027,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Industrials,c,0.05,-26.03082466694143,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1850.4710928224772,0.043838211457772294,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_c,returns,3,c,649,6,2017-01-03,2019-12-30,Materials,c,0.05,-26.2514428337935,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1882.3721263353168,0.06750341013788905,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Gold,c,0.05,-11.585436873383541,2.8751500311088043e-21,3,221,-3.4602906385073884,-2.874708679520702,-2.573788599127782,740.250877586304,0.12888425410915152,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Silver,c,0.05,-12.7737013754563,7.673640750204608e-24,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1078.0886142183183,0.11156077903311476,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Cons_discr,c,0.05,-9.08223016245951,4.027270812918039e-15,1,223,-3.460018927623594,-2.8745897386146817,-2.57372514086348,939.2187638151682,0.09687755898674344,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Financials,c,0.05,-16.47607367098077,2.2597258079878226e-29,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1061.0111870504877,0.24538525544272768,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Industrials,c,0.05,-14.672562144252025,3.2493450454791274e-27,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,995.5633629556662,0.23473849763392543,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_c,returns,4,c,225,6,2020-01-02,2020-12-30,Materials,c,0.05,-15.479013362875001,2.570781705050741e-28,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,986.8503668784267,0.18295320999371922,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Gold,c,0.05,-15.626899918321616,1.7043657026116296e-28,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,658.0158820287288,0.15125602294014942,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Silver,c,0.05,-16.100330565216012,5.139814580405266e-29,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,969.106601988077,0.042904803940462886,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Cons_discr,c,0.05,-15.71572764698071,1.3426020237051378e-28,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,846.4635631668666,0.13225062583437747,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Financials,c,0.05,-16.380719000918248,2.753217354242132e-29,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,822.3847107699755,0.2060357173507706,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Industrials,c,0.05,-16.00420068023569,6.46127690827117e-29,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,725.228874408819,0.3478263617659652,0.09964380958363568,7,0.739,0.463,0.347,,True,False,stationary
+period5_c,returns,5,c,255,6,2021-01-04,2022-02-18,Materials,c,0.05,-14.802343775754391,2.0902046615239298e-27,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,769.4839381267068,0.13854381593618417,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Gold,c,0.05,-13.4684767598161,3.419237381760873e-25,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,485.3888505731059,0.19222837827150352,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Silver,c,0.05,-12.97306076667197,3.052537429651912e-24,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,761.6436096698704,0.2968743014124649,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Cons_discr,c,0.05,-14.33117848506712,1.0992027463860053e-26,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,815.9842901180945,0.058848682481898645,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Financials,c,0.05,-13.625377940399705,1.7642725178914354e-25,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,682.7764561778168,0.16366530188560427,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Industrials,c,0.05,-13.201272047550704,1.0932121124604574e-24,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,645.8811648405656,0.13201265117356697,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_c,returns,6,c,190,6,2022-02-23,2022-12-29,Materials,c,0.05,-13.583690185974854,2.100157253901836e-25,0,189,-3.4654311561944873,-2.8769570530458792,-2.574988319755886,702.2564863470619,0.08682947137186657,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Gold,c,0.05,-29.167357889607086,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2500.4780905926596,0.0923534869949938,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Silver,c,0.05,-27.325451946639653,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,3650.801906492613,0.17899483656237136,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Cons_discr,c,0.05,-29.424601787195037,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2740.9801262349633,0.09240314807453859,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Financials,c,0.05,-27.38219321990807,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2347.3957451963383,0.08401519852748489,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Industrials,c,0.05,-28.20947171787267,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2291.558455459628,0.027610989169677257,0.1,13,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_c,returns,7,c,784,6,2023-01-03,2026-05-26,Materials,c,0.05,-28.613704803624614,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2373.612454535925,0.03406613331569577,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_d,returns,1,d,725,5,2012-01-05,2015-07-31,Gold,c,0.05,-28.15517079562458,0.0,0,724,-3.4394144152232995,-2.8655403100177566,-2.5689002207655443,2321.3158945334103,0.06393589785003827,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_d,returns,1,d,725,5,2012-01-05,2015-07-31,Silver,c,0.05,-29.70643080949261,0.0,0,724,-3.4394144152232995,-2.8655403100177566,-2.5689002207655443,2951.9751378969145,0.09568264703151073,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_d,returns,1,d,725,5,2012-01-05,2015-07-31,Cons_staples,c,0.05,-27.89143877478356,0.0,0,724,-3.4394144152232995,-2.8655403100177566,-2.5689002207655443,1569.640687392515,0.028238903545653615,0.1,18,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_d,returns,1,d,725,5,2012-01-05,2015-07-31,Health,c,0.05,-29.32468014282429,0.0,0,724,-3.4394144152232995,-2.8655403100177566,-2.5689002207655443,1902.9584616160641,0.04303433182817389,0.1,18,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_d,returns,1,d,725,5,2012-01-05,2015-07-31,Utilities,c,0.05,-27.159302213250605,0.0,0,724,-3.4394144152232995,-2.8655403100177566,-2.5689002207655443,1902.0389607427273,0.037324248108070016,0.1,8,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_d,returns,2,d,281,5,2015-08-03,2016-12-28,Gold,c,0.05,-16.3755519841549,2.7834432467435915e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,833.914912136092,0.31478115199184104,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_d,returns,2,d,281,5,2015-08-03,2016-12-28,Silver,c,0.05,-16.16827745913313,4.392180530675758e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,1104.1281951229332,0.15114764646530482,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_d,returns,2,d,281,5,2015-08-03,2016-12-28,Cons_staples,c,0.05,-17.637601626480613,3.7722960194573875e-30,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,746.2497270496175,0.09231966871949253,0.1,8,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_d,returns,2,d,281,5,2015-08-03,2016-12-28,Health,c,0.05,-17.794506027242445,3.23697004612453e-30,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,900.9288612993483,0.11250664161782957,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_d,returns,2,d,281,5,2015-08-03,2016-12-28,Utilities,c,0.05,-16.43848681782183,2.4405031035689928e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,867.4431779875532,0.07359005324869679,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_d,returns,3,d,649,5,2017-01-03,2019-12-30,Gold,c,0.05,-25.95214845337181,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1371.2004744434657,0.12569950206275496,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_d,returns,3,d,649,5,2017-01-03,2019-12-30,Silver,c,0.05,-24.70157851829984,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2039.788313434636,0.09306081492405295,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_d,returns,3,d,649,5,2017-01-03,2019-12-30,Cons_staples,c,0.05,-24.48961834532318,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1446.4218332119249,0.10562837596067864,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_d,returns,3,d,649,5,2017-01-03,2019-12-30,Health,c,0.05,-24.6088096739199,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1694.3499357920577,0.06306252949236583,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_d,returns,3,d,649,5,2017-01-03,2019-12-30,Utilities,c,0.05,-20.145455527152066,0.0,1,647,-3.4404975024933813,-2.8660174956716795,-2.569154453750397,1597.4365871616908,0.07972433883969766,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_d,returns,4,d,225,5,2020-01-02,2020-12-30,Gold,c,0.05,-11.585436873383541,2.8751500311088043e-21,3,221,-3.4602906385073884,-2.874708679520702,-2.573788599127782,740.250877586304,0.12888425410915152,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_d,returns,4,d,225,5,2020-01-02,2020-12-30,Silver,c,0.05,-12.7737013754563,7.673640750204608e-24,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1078.0886142183183,0.11156077903311476,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_d,returns,4,d,225,5,2020-01-02,2020-12-30,Cons_staples,c,0.05,-9.994615625611113,1.9551115960036857e-17,1,223,-3.460018927623594,-2.8745897386146817,-2.57372514086348,837.0831000854841,0.10885525453023441,0.1,10,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_d,returns,4,d,225,5,2020-01-02,2020-12-30,Health,c,0.05,-9.810792256373482,5.664346596314047e-17,1,223,-3.460018927623594,-2.8745897386146817,-2.57372514086348,878.452655453909,0.06671869580951194,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_d,returns,4,d,225,5,2020-01-02,2020-12-30,Utilities,c,0.05,-9.017849855181215,5.884027301478161e-15,1,223,-3.460018927623594,-2.8745897386146817,-2.57372514086348,971.0380075022207,0.059275074225153636,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_d,returns,5,d,255,5,2021-01-04,2022-02-18,Gold,c,0.05,-15.626899918321616,1.7043657026116296e-28,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,658.0158820287288,0.15125602294014942,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_d,returns,5,d,255,5,2021-01-04,2022-02-18,Silver,c,0.05,-16.100330565216012,5.139814580405266e-29,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,969.106601988077,0.042904803940462886,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_d,returns,5,d,255,5,2021-01-04,2022-02-18,Cons_staples,c,0.05,-15.779467517402754,1.135726151005967e-28,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,555.4187383693314,0.06279540117556025,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_d,returns,5,d,255,5,2021-01-04,2022-02-18,Health,c,0.05,-14.929944920344193,1.37108215649372e-27,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,606.626901334683,0.23836179927242648,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_d,returns,5,d,255,5,2021-01-04,2022-02-18,Utilities,c,0.05,-18.900180405055366,0.0,0,254,-3.456360306409983,-2.8729872043802356,-2.572870232500465,690.4095585149864,0.0802153689373848,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_d,returns,6,d,191,5,2022-02-23,2022-12-29,Gold,c,0.05,-13.487693089857519,3.15043245864027e-25,0,190,-3.4652439354133255,-2.8768752281673717,-2.574944653739612,482.5359810264364,0.19207728331626728,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_d,returns,6,d,191,5,2022-02-23,2022-12-29,Silver,c,0.05,-13.167278258103163,1.2713944241073654e-24,0,190,-3.4652439354133255,-2.8768752281673717,-2.574944653739612,764.5399039406467,0.28449761878465074,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_d,returns,6,d,191,5,2022-02-23,2022-12-29,Cons_staples,c,0.05,-12.986950144672354,2.865092382621984e-24,0,190,-3.4652439354133255,-2.8768752281673717,-2.574944653739612,569.5420345808716,0.08421164930127387,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_d,returns,6,d,191,5,2022-02-23,2022-12-29,Health,c,0.05,-12.810564516154068,6.460054867725127e-24,0,190,-3.4652439354133255,-2.8768752281673717,-2.574944653739612,593.8584957286556,0.06143080265994567,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_d,returns,6,d,191,5,2022-02-23,2022-12-29,Utilities,c,0.05,-13.584976986966392,2.0888551714472023e-25,0,190,-3.4652439354133255,-2.8768752281673717,-2.574944653739612,639.9835709581362,0.09428191276160845,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_d,returns,7,d,783,5,2023-01-03,2026-05-26,Gold,c,0.05,-29.358114112927193,0.0,0,782,-3.4387398917732193,-2.8652430432199654,-2.5687418568690683,2500.217374428926,0.09050323631986798,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_d,returns,7,d,783,5,2023-01-03,2026-05-26,Silver,c,0.05,-27.87936812857735,0.0,0,782,-3.4387398917732193,-2.8652430432199654,-2.5687418568690683,3653.74966951599,0.18390555463672362,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_d,returns,7,d,783,5,2023-01-03,2026-05-26,Cons_staples,c,0.05,-27.91949087648689,0.0,0,782,-3.4387398917732193,-2.8652430432199654,-2.5687418568690683,1826.0753203458087,0.04427811053443818,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_d,returns,7,d,783,5,2023-01-03,2026-05-26,Health,c,0.05,-28.885145122165312,0.0,0,782,-3.4387398917732193,-2.8652430432199654,-2.5687418568690683,2029.1251379758633,0.04753126025535646,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_d,returns,7,d,783,5,2023-01-03,2026-05-26,Utilities,c,0.05,-27.864403178224805,0.0,0,782,-3.4387398917732193,-2.8652430432199654,-2.5687418568690683,2303.2116667993328,0.14539236777494963,0.1,8,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Gold,c,0.05,-27.796775211173667,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2279.2678809043064,0.04322754007768213,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Silver,c,0.05,-29.146262579663656,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2904.930376943367,0.049826937931465365,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Inf_tech,c,0.05,-27.845862256261565,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2052.069604724058,0.050683556343791764,0.1,10,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Real_estate,c,0.05,-27.766207548534712,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,1995.7819902375911,0.04232976141973265,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Telecom,c,0.05,-26.56540782173283,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,1906.1976604154752,0.1769471651220743,0.1,8,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period1_m,returns,1,m,714,6,2012-01-24,2015-07-31,Energy,c,0.05,-27.364153673898077,0.0,0,713,-3.43955476721974,-2.865602155751202,-2.5689331692727135,2276.918171741614,0.27660579532769775,0.1,13,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Gold,c,0.05,-16.3755519841549,2.7834432467435915e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,833.914912136092,0.31478115199184104,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Silver,c,0.05,-16.16827745913313,4.392180530675758e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,1104.1281951229332,0.15114764646530482,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Inf_tech,c,0.05,-16.997914973122516,8.771911218907412e-30,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,916.6643255087444,0.09317012569816321,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Real_estate,c,0.05,-15.851298265038372,9.44198501402837e-29,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,894.5267211250055,0.08119810687939519,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Telecom,c,0.05,-17.097046400721627,7.521851911183788e-30,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,848.1601349117569,0.0938510771327043,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period2_m,returns,2,m,281,6,2015-08-03,2016-12-28,Energy,c,0.05,-17.156016306991233,6.89179488117606e-30,0,280,-3.453922368485787,-2.871918329081633,-2.5723001147959184,1085.8615481022205,0.14551787254532814,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Gold,c,0.05,-25.95214845337181,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1371.2004744434657,0.12569950206275496,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Silver,c,0.05,-24.70157851829984,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2039.788313434636,0.09306081492405295,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Inf_tech,c,0.05,-27.595123811962328,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2068.962129091464,0.0847132765168632,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Real_estate,c,0.05,-25.8321452854544,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,1624.805700093125,0.052478390602529075,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Telecom,c,0.05,-26.095470111519994,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2034.7626299663805,0.22471720740180554,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period3_m,returns,3,m,649,6,2017-01-03,2019-12-30,Energy,c,0.05,-25.164765484849315,0.0,0,648,-3.4404817800778034,-2.866010569916275,-2.569150763698369,2104.796396137385,0.04734092140614197,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Gold,c,0.05,-11.585436873383541,2.8751500311088043e-21,3,221,-3.4602906385073884,-2.874708679520702,-2.573788599127782,740.250877586304,0.12888425410915152,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Silver,c,0.05,-12.7737013754563,7.673640750204608e-24,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1078.0886142183183,0.11156077903311476,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Inf_tech,c,0.05,-20.076601533324048,0.0,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,996.7790536832148,0.04702870175914117,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Real_estate,c,0.05,-15.75047363685993,1.2250590939821627e-28,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1015.130576335104,0.05130985516266634,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Telecom,c,0.05,-19.680347369251237,0.0,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,917.1634821173387,0.08952965363964066,0.1,0,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period4_m,returns,4,m,225,6,2020-01-02,2020-12-30,Energy,c,0.05,-13.676903190275615,1.4245916245602555e-25,0,224,-3.459884913337196,-2.8745310704320794,-2.573693840082908,1184.8712637014992,0.23249881614348494,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Gold,c,0.05,-15.602269978952803,1.822943007600613e-28,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,659.0794775555495,0.15073191620473153,0.1,5,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Silver,c,0.05,-16.114910882048296,4.96775952143847e-29,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,972.221350003054,0.04425391681540813,0.1,8,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Inf_tech,c,0.05,-17.115357032369293,7.317955538790267e-30,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,873.4982456868917,0.161167426571184,0.1,10,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Real_estate,c,0.05,-16.844551094060815,1.1311881205140832e-29,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,726.270264112651,0.41934174594763474,0.06881821295360573,2,0.739,0.463,0.347,,True,False,stationary
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Telecom,c,0.05,-15.96436499772683,7.119517129238954e-29,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,833.1096046446222,0.7803080884016865,0.01,9,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",True,True,conflicting_results
+period5_m,returns,5,m,256,6,2021-01-04,2022-02-18,Energy,c,0.05,-15.36680927588835,3.5518496030013157e-28,0,255,-3.4562572510874396,-2.8729420379793598,-2.5728461399461744,1034.9209291861168,0.09656483286299805,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Gold,c,0.05,-13.661460540883612,1.51861575171281e-25,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,486.4091053774365,0.19097945930693844,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Silver,c,0.05,-13.215770755450963,1.0252450221277044e-24,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,767.0275891924339,0.2845052683071059,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Inf_tech,c,0.05,-15.181830401764882,6.182023329434758e-28,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,803.8193119314442,0.04921699018579302,0.1,7,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Real_estate,c,0.05,-13.570492949954247,2.219794522775204e-25,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,724.3413399902169,0.07384739453406641,0.1,2,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Telecom,c,0.05,-15.139690624191097,7.03965486440446e-28,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,797.7557385559019,0.038682666160858324,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period6_m,returns,6,m,192,6,2022-02-23,2022-12-29,Energy,c,0.05,-13.444312971397054,3.7912859845132947e-25,0,191,-3.465058702600837,-2.8767942675230356,-2.5749014492475535,832.2860255869217,0.057744475834798664,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Gold,c,0.05,-29.167357889607086,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2500.4780905926596,0.0923534869949938,0.1,3,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Silver,c,0.05,-27.325451946639653,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,3650.801906492613,0.17899483656237136,0.1,6,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Inf_tech,c,0.05,-29.50435891282424,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2871.7002126302496,0.0872430651384992,0.1,9,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Real_estate,c,0.05,-29.93459851915695,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2407.3204526344985,0.044901454703897135,0.1,4,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Telecom,c,0.05,-29.593575330233673,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2716.7907214618144,0.10019983288871001,0.1,12,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+period7_m,returns,7,m,784,6,2023-01-03,2026-05-26,Energy,c,0.05,-26.874535250277727,0.0,0,783,-3.4387291412780177,-2.8652383048736056,-2.568739332674375,2786.7025272681567,0.10564267769590287,0.1,1,0.739,0.463,0.347,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Gold,ct,0.05,-2.8905567534794967,0.16528835671887204,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4184.156604595255,0.2897878149740195,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Silver,ct,0.05,-2.7915068707954354,0.2000813770386785,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-3552.3512036696293,0.17068674440911993,0.02942771299240005,17,0.216,0.146,0.119,,False,True,non_stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Cons_discr,ct,0.05,-3.3118938196228993,0.06432047458723053,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4544.956797351533,0.4299480878819655,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Financials,ct,0.05,-2.9412164922954225,0.14926370339780592,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4402.89093395642,0.5368621122231153,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Industrials,ct,0.05,-2.317233752658772,0.4244419144072503,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4491.3938420733675,0.46961306179872336,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_c,log_levels,1,c,715,6,2012-01-23,2015-07-31,Materials,ct,0.05,-2.6611579919718835,0.25256123599587943,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4325.735707963812,0.36075492100750006,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Gold,ct,0.05,-0.5453344339581502,0.9815459474638755,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1630.8781196649725,0.32615364751016174,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Silver,ct,0.05,-1.354724314065466,0.8737185572901971,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1360.6533462178527,0.26296333156411594,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Cons_discr,ct,0.05,-3.242978226804614,0.07617288075037294,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1619.6972802025093,0.10813291611601356,0.1,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Financials,ct,0.05,-1.5217403834020613,0.8215736639421707,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1516.534593253084,0.4074175153197013,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Industrials,ct,0.05,-3.032554198984053,0.12320580039869927,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1625.0757393695726,0.13058379572654996,0.07854852643231487,10,0.216,0.146,0.119,,False,False,inconclusive
+levels2_c,log_levels,2,c,281,6,2015-08-03,2016-12-28,Materials,ct,0.05,-2.900990937792253,0.16189485886499377,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1504.4744260856128,0.17239388346297702,0.028005097114185813,10,0.216,0.146,0.119,,False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Gold,ct,0.05,-1.6266862606578576,0.7818086417297192,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4482.57404299838,0.5481441354186143,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Silver,ct,0.05,-1.9098853387111179,0.6495312171663574,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3815.063269331682,0.5413917995682769,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Cons_discr,ct,0.05,-2.923729783224125,0.15466682120895675,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4043.9205572825213,0.36758107055315115,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Financials,ct,0.05,-2.4421044732377966,0.35748549657637346,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3919.2023993223265,0.4397981343453423,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Industrials,ct,0.05,-3.0133303013383457,0.12839220165790238,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4009.8129110081736,0.2944655730408979,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_c,log_levels,3,c,649,6,2017-01-03,2019-12-30,Materials,ct,0.05,-2.7988768863643294,0.19735725721500247,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3975.6976693576034,0.42137496349133813,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Gold,ct,0.05,-1.3705701531083605,0.8693464483113351,4,220,-4.000520408996994,-3.4306373191209616,-3.138885924117205,-1204.782623147201,0.3840750363777413,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Silver,ct,0.05,-2.2459660959594374,0.4640365147603129,1,223,-3.9999506167815206,-3.4303636888103926,-3.138725564735756,-869.07270654098,0.23757565584010878,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Cons_discr,ct,0.05,-2.331142599570505,0.416806627131723,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-1010.0006449862698,0.19252115262526623,0.018804567765525162,9,0.216,0.146,0.119,,False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Financials,ct,0.05,-1.9966807583908608,0.6032407641068366,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-891.7716910265727,0.35386136010687075,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Industrials,ct,0.05,-2.0206435326126546,0.5901447984287564,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-959.9345817664376,0.35303503003344544,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_c,log_levels,4,c,225,6,2020-01-02,2020-12-30,Materials,ct,0.05,-2.48873465801327,0.3336172578691742,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-968.776163714852,0.2559302181690833,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Gold,ct,0.05,-3.290152347047373,0.06788729289610464,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1574.4003398255022,0.09991731493975438,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Silver,ct,0.05,-2.9939487677965557,0.13378063457128958,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1264.2467112855838,0.150051404499298,0.046623829583918336,10,0.216,0.146,0.119,,False,True,non_stationary
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Cons_discr,ct,0.05,-2.016643959911275,0.5923385378339721,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1381.1205463867136,0.12803015615157423,0.08327748860819587,10,0.216,0.146,0.119,,False,False,inconclusive
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Financials,ct,0.05,-3.0896659273017937,0.10870990717150592,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1411.0443599967257,0.3590653898202931,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Industrials,ct,0.05,-2.1268215298608153,0.5310482042600305,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1505.7280664326108,0.4158670516067478,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_c,log_levels,5,c,255,6,2021-01-04,2022-02-18,Materials,ct,0.05,-2.5193056921235772,0.31837831804002226,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1458.995243019801,0.23210895421547198,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Gold,ct,0.05,-1.0738093604149384,0.9333272547062172,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-1143.1169334081162,0.32542832671762645,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Silver,ct,0.05,-0.7229019867368005,0.9715984721422156,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-867.476039810126,0.43105195845623473,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Cons_discr,ct,0.05,-2.170886430134492,0.5062461064373107,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-813.493953516434,0.13818884808609244,0.06446509613686584,9,0.216,0.146,0.119,,False,False,inconclusive
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Financials,ct,0.05,-1.9303132763841786,0.6388198078917483,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-945.5227825921828,0.30878029170462457,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Industrials,ct,0.05,-1.5410738865667737,0.8146555287173392,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-981.4490815820876,0.2521564654017737,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_c,log_levels,6,c,190,6,2022-02-23,2022-12-29,Materials,ct,0.05,-1.8200695823595276,0.6950014255547918,0,189,-4.007485705462188,-3.4339793108836276,-3.140843617555455,-925.43394166621,0.2467271825547721,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Gold,ct,0.05,-2.5362635335272805,0.310075217934451,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4600.923126039942,0.7642738809796468,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Silver,ct,0.05,-2.1555603165796393,0.5148784433211474,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-3448.906623364224,0.7450545084118635,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Cons_discr,ct,0.05,-3.6182603071300337,0.028336407993735775,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4362.415981687959,0.29314799933028834,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",True,True,conflicting_results
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Financials,ct,0.05,-2.0964074315268104,0.5481079564978397,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4751.506116763793,0.567571924028198,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Industrials,ct,0.05,-3.6671108936390735,0.024616506924690695,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4816.228067254205,0.11235443126833386,0.1,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",True,False,stationary
+levels7_c,log_levels,7,c,784,6,2023-01-03,2026-05-26,Materials,ct,0.05,-3.0051513296738745,0.1306464848246296,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4729.757275132145,0.24496575107187935,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_d,log_levels,1,d,725,5,2012-01-05,2015-07-31,Gold,ct,0.05,-3.0824875904144915,0.11045799576791732,0,724,-3.9713288689618778,-3.416571446444077,-3.130628817633013,-4237.345448761744,0.28328150723846174,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_d,log_levels,1,d,725,5,2012-01-05,2015-07-31,Silver,ct,0.05,-3.1225613135056394,0.1009650621016322,0,724,-3.9713288689618778,-3.416571446444077,-3.130628817633013,-3601.720006858212,0.17542031830240323,0.025483068081330634,17,0.216,0.146,0.119,,False,True,non_stationary
+levels1_d,log_levels,1,d,725,5,2012-01-05,2015-07-31,Cons_staples,ct,0.05,-3.780642916462206,0.017566442211445977,0,724,-3.9713288689618778,-3.416571446444077,-3.130628817633013,-4994.638262108335,0.1281836597922761,0.08299322260689608,17,0.216,0.146,0.119,,True,False,stationary
+levels1_d,log_levels,1,d,725,5,2012-01-05,2015-07-31,Health,ct,0.05,-4.527557005694349,0.001360226488693748,0,724,-3.9713288689618778,-3.416571446444077,-3.130628817633013,-4665.006042100759,0.24045641235062165,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",True,True,conflicting_results
+levels1_d,log_levels,1,d,725,5,2012-01-05,2015-07-31,Utilities,ct,0.05,-3.039808206423978,0.1212893491583576,0,724,-3.9713288689618778,-3.416571446444077,-3.130628817633013,-4657.98273346261,0.2137382701628697,0.010848148688923863,17,0.216,0.146,0.119,,False,True,non_stationary
+levels2_d,log_levels,2,d,281,5,2015-08-03,2016-12-28,Gold,ct,0.05,-0.5453344339581502,0.9815459474638755,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1630.8781196649725,0.32615364751016174,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_d,log_levels,2,d,281,5,2015-08-03,2016-12-28,Silver,ct,0.05,-1.354724314065466,0.8737185572901971,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1360.6533462178527,0.26296333156411594,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_d,log_levels,2,d,281,5,2015-08-03,2016-12-28,Cons_staples,ct,0.05,-2.3603576546035345,0.40089495883721443,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1720.7517117326993,0.4009171244154231,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_d,log_levels,2,d,281,5,2015-08-03,2016-12-28,Health,ct,0.05,-3.2180746274949863,0.08085989923016584,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1573.58073229115,0.22732413225921175,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_d,log_levels,2,d,281,5,2015-08-03,2016-12-28,Utilities,ct,0.05,-2.023552761008878,0.5885472160167717,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1599.8187735868437,0.384278102142911,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30,Gold,ct,0.05,-1.6266862606578576,0.7818086417297192,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4482.57404299838,0.5481441354186143,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30,Silver,ct,0.05,-1.9098853387111179,0.6495312171663574,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3815.063269331682,0.5413917995682769,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30,Cons_staples,ct,0.05,-1.6978519180291185,0.7518133688234068,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4407.21385077099,0.6518303215609823,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30,Health,ct,0.05,-3.3283298919120714,0.061725834415992074,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4169.09954299878,0.3922199480510769,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30,Utilities,ct,0.05,-2.103943228747613,0.5438879148849766,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4257.632229670522,0.6524531504581341,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30,Gold,ct,0.05,-1.3705701531083605,0.8693464483113351,4,220,-4.000520408996994,-3.4306373191209616,-3.138885924117205,-1204.782623147201,0.3840750363777413,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30,Silver,ct,0.05,-2.2459660959594374,0.4640365147603129,1,223,-3.9999506167815206,-3.4303636888103926,-3.138725564735756,-869.07270654098,0.23757565584010878,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30,Cons_staples,ct,0.05,-2.57436306192995,0.29183258271863277,2,222,-4.000138811415506,-3.430454069218963,-3.1387785328059983,-1114.1217535908797,0.30824855973780885,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30,Health,ct,0.05,-3.032522053299489,0.12321434236282913,2,222,-4.000138811415506,-3.430454069218963,-3.1387785328059983,-1074.4712568375899,0.13523019332303338,0.06994408643882707,9,0.216,0.146,0.119,,False,False,inconclusive
+levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30,Utilities,ct,0.05,-2.7922195279395883,0.19981681333511503,2,222,-4.000138811415506,-3.430454069218963,-3.1387785328059983,-980.6010449532105,0.3118076623507733,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18,Gold,ct,0.05,-3.290152347047373,0.06788729289610464,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1574.4003398255022,0.09991731493975438,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18,Silver,ct,0.05,-2.9939487677965557,0.13378063457128958,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1264.2467112855838,0.150051404499298,0.046623829583918336,10,0.216,0.146,0.119,,False,True,non_stationary
+levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18,Cons_staples,ct,0.05,-2.9875290620024875,0.13560101511169909,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1675.815807158332,0.13624255228384283,0.06806934762251327,10,0.216,0.146,0.119,,False,False,inconclusive
+levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18,Health,ct,0.05,-1.3737637453951757,0.8684510479275731,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1618.9044478019332,0.3205504580995666,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18,Utilities,ct,0.05,-2.8370835986428324,0.18365763259383178,0,254,-3.9948609475059107,-3.4279178665415597,-3.137291730892123,-1535.5378030115912,0.10078152893069378,0.1,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29,Gold,ct,0.05,-1.0500017162371738,0.9369982490537193,0,190,-4.00722493293483,-3.43385428838023,-3.1407704096807114,-1155.108006076659,0.32474266817260034,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29,Silver,ct,0.05,-0.7157174991849463,0.9720941760965944,0,190,-4.00722493293483,-3.43385428838023,-3.1407704096807114,-874.0347757615101,0.43227226554252884,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29,Cons_staples,ct,0.05,-2.002173447974594,0.600249284753122,0,190,-4.00722493293483,-3.43385428838023,-3.1407704096807114,-1067.8834888369026,0.15129733635857892,0.04558555303451756,9,0.216,0.146,0.119,,False,True,non_stationary
+levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29,Health,ct,0.05,-2.220105214467683,0.47854342012063833,0,190,-4.00722493293483,-3.43385428838023,-3.1407704096807114,-1043.4893553686366,0.23229210997811325,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29,Utilities,ct,0.05,-2.485331073863476,0.33533461421880695,0,190,-4.00722493293483,-3.43385428838023,-3.1407704096807114,-997.9969233760672,0.10651848949875747,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26,Gold,ct,0.05,-2.5464364200203313,0.3051475844900373,0,782,-3.9703936218917137,-3.4161191933317707,-3.1303628590520174,-4591.540224810375,0.7654622438382909,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26,Silver,ct,0.05,-2.160528073752201,0.5120807172086406,0,782,-3.9703936218917137,-3.4161191933317707,-3.1303628590520174,-3437.312232186345,0.7432212631873029,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26,Cons_staples,ct,0.05,-3.0727108892069523,0.1128727029260555,0,782,-3.9703936218917137,-3.4161191933317707,-3.1303628590520174,-5267.888516569497,0.25762493422777005,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26,Health,ct,0.05,-2.5425623344846895,0.30701936568153865,0,782,-3.9703936218917137,-3.4161191933317707,-3.1303628590520174,-5061.7370108157975,0.3250917620265176,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26,Utilities,ct,0.05,-3.1880180455643017,0.08681580521505317,0,782,-3.9703936218917137,-3.4161191933317707,-3.1303628590520174,-4792.9182854132505,0.3904423490010495,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Gold,ct,0.05,-2.8905567534794967,0.16528835671887204,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4184.156604595255,0.2897878149740195,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Silver,ct,0.05,-2.7915068707954354,0.2000813770386785,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-3552.3512036696293,0.17068674440911993,0.02942771299240005,17,0.216,0.146,0.119,,False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Inf_tech,ct,0.05,-2.73278770247021,0.22272253867596892,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4411.196270637918,0.6533329335379818,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Real_estate,ct,0.05,-2.7860216088156005,0.20212593775308235,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4467.339497364393,0.28312057909651034,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Telecom,ct,0.05,-2.7458692787564143,0.2175349070608052,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4562.309964385894,0.47527700502090514,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31,Energy,ct,0.05,-0.9693129738372062,0.9481060822318986,0,714,-3.971505543809988,-3.4166568690005796,-3.1306790491579726,-4181.446436733665,0.6066950882003197,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Gold,ct,0.05,-0.5453344339581502,0.9815459474638755,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1630.8781196649725,0.32615364751016174,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Silver,ct,0.05,-1.354724314065466,0.8737185572901971,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1360.6533462178527,0.26296333156411594,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Inf_tech,ct,0.05,-2.9909697562170026,0.13462315746172332,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1555.530526597804,0.23631977455347813,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Real_estate,ct,0.05,-1.9775892822076953,0.613586845228183,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1571.6426663447319,0.27962852686262374,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Telecom,ct,0.05,-1.8709728047760623,0.6695740010171956,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1617.8616730829976,0.39345677789398026,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28,Energy,ct,0.05,-2.649115060350001,0.2578112650154756,0,280,-3.9914712133290817,-3.4262873220663264,-3.1363353689868805,-1385.2192066161251,0.30828746839990967,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Gold,ct,0.05,-1.6266862606578576,0.7818086417297192,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4482.57404299838,0.5481441354186143,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Silver,ct,0.05,-1.9098853387111179,0.6495312171663574,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3815.063269331682,0.5413917995682769,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Inf_tech,ct,0.05,-2.8215620643225012,0.18913769185476526,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3786.00677719176,0.4332896769895397,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Real_estate,ct,0.05,-2.417157397344031,0.37053783817796515,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-4232.311138048557,0.7094745820296401,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Telecom,ct,0.05,-2.8251784726394047,0.1878504317404438,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3825.5958282155116,0.7010923460949591,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30,Energy,ct,0.05,-2.3321461641245276,0.4162571351180015,0,648,-3.972809027561826,-3.4172869946025872,-3.1310495530812688,-3751.556878913647,0.5453417344089218,0.01,16,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Gold,ct,0.05,-1.3705701531083605,0.8693464483113351,4,220,-4.000520408996994,-3.4306373191209616,-3.138885924117205,-1204.782623147201,0.3840750363777413,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Silver,ct,0.05,-2.2459660959594374,0.4640365147603129,1,223,-3.9999506167815206,-3.4303636888103926,-3.138725564735756,-869.07270654098,0.23757565584010878,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Inf_tech,ct,0.05,-2.1699857934386895,0.506753442187668,1,223,-3.9999506167815206,-3.4303636888103926,-3.138725564735756,-952.0209596210092,0.18189192642642318,0.022790527590091304,9,0.216,0.146,0.119,,False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Real_estate,ct,0.05,-2.67001439787431,0.2487425539589041,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-940.332192689816,0.22739228051300475,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Telecom,ct,0.05,-1.9929710362873523,0.605257525718381,1,223,-3.9999506167815206,-3.4303636888103926,-3.138725564735756,-1032.4504361531142,0.2104127273236048,0.012095227253648198,9,0.216,0.146,0.119,,False,True,non_stationary
+levels4_m,log_levels,4,m,225,6,2020-01-02,2020-12-30,Energy,ct,0.05,-1.9171524764213654,0.6457349293687096,0,224,-3.9997641267986688,-3.430274123136559,-3.138673072997335,-767.6656975638776,0.2031633716717575,0.01481373562309094,9,0.216,0.146,0.119,,False,True,non_stationary
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Gold,ct,0.05,-3.2924039485656484,0.06751067651947512,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1582.499034934724,0.09957467847106413,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Silver,ct,0.05,-3.0010177057647636,0.13179668040740783,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1270.3835663455245,0.1488520691953242,0.04762327567056316,10,0.216,0.146,0.119,,False,True,non_stationary
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Inf_tech,ct,0.05,-2.239175690547584,0.46784055081945725,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1363.1504413109974,0.1693400114729172,0.030549990439235668,10,0.216,0.146,0.119,,False,True,non_stationary
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Real_estate,ct,0.05,-0.9430918687320319,0.9513033589151152,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1510.975266665389,0.46936360082385464,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Telecom,ct,0.05,-0.7465713029174966,0.96990092993519,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1404.979438780107,0.5469374998545591,0.01,10,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels5_m,log_levels,5,m,256,6,2021-01-04,2022-02-18,Energy,ct,0.05,-2.611594360225606,0.27458462764449554,0,255,-3.9947176293431634,-3.4278489532834278,-3.1372513189497253,-1201.4248882255883,0.19276704598778777,0.018712357754579585,10,0.216,0.146,0.119,,False,True,non_stationary
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Gold,ct,0.05,-1.0716428000618632,0.9336691527733607,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-1160.5338515840847,0.3241308626280355,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Silver,ct,0.05,-0.7105930339821765,0.9724423252611996,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-880.7402368283563,0.4336648859942531,0.01,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Inf_tech,ct,0.05,-2.657556814307541,0.2541242360365765,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-844.9071073561138,0.1165036494701332,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Real_estate,ct,0.05,-2.235743699918561,0.4697646749317512,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-922.9836326390073,0.08474290283669933,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Telecom,ct,0.05,-3.169514880672766,0.09064915944947627,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-853.2365342127312,0.10243552656132879,0.1,9,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+",False,False,inconclusive
+levels6_m,log_levels,6,m,192,6,2022-02-23,2022-12-29,Energy,ct,0.05,-2.620551707790047,0.27052378755486983,0,191,-4.006966937644225,-3.4337305899018506,-3.1406979749122796,-816.682140912631,0.17117832836605898,0.029018059694950846,9,0.216,0.146,0.119,,False,True,non_stationary
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Gold,ct,0.05,-2.5362635335272805,0.310075217934451,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4600.923126039942,0.7642738809796468,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Silver,ct,0.05,-2.1555603165796393,0.5148784433211474,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-3448.906623364224,0.7450545084118635,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Inf_tech,ct,0.05,-3.19826572934039,0.08474783187144708,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4229.20472126446,0.42582474773017676,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Real_estate,ct,0.05,-3.0754165910439943,0.11220051171153322,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4695.512663683375,0.2242453048434472,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Telecom,ct,0.05,-3.9186605120042945,0.011434796636179252,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4387.719218617608,0.3688042227427548,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",True,True,conflicting_results
+levels7_m,log_levels,7,m,784,6,2023-01-03,2026-05-26,Energy,ct,0.05,-2.308272217925209,0.42937982335061037,0,783,-3.9703787168985425,-3.4161119849792025,-3.1303586197638116,-4313.75905053581,0.37238404476621007,0.01,17,0.216,0.146,0.119,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is smaller than the p-value returned.
+",False,True,non_stationary

@@ -1,0 +1,25 @@
+#############
+###Model VECM 
+#############
+Full sample size: 784 	End sample size: 782
+Number of variables: 6 	Number of estimated slope parameters 42
+AIC -43116.49 	BIC -42897.38 	SSR 1.01661
+Cointegrating vector (estimated by ML):
+   Gold     Silver Cons_discr Financials Industrials Materials     const
+r1    1 -0.4156568  0.9240194 -0.3362597   -2.066045  1.708491 -7.364168
+
+
+                     ECT                Gold -1             Silver -1           Cons_discr -1      
+Equation Gold        -0.0187(0.0109).   -0.0204(0.0473)     -0.0306(0.0215)     0.0088(0.0428)     
+Equation Silver      0.0065(0.0222)     0.3995(0.0960)***   -0.1426(0.0436)**   0.1923(0.0870)*    
+Equation Cons_discr  -0.0316(0.0128)*   -0.0345(0.0556)     0.0276(0.0253)      -0.0832(0.0504).   
+Equation Financials  0.0060(0.0100)     -0.0326(0.0432)     0.0187(0.0197)      -0.0571(0.0392)    
+Equation Industrials 0.0055(0.0097)     -0.0279(0.0419)     0.0006(0.0191)      -0.0689(0.0380).   
+Equation Materials   -0.0315(0.0101)**  0.0400(0.0439)      -0.0211(0.0200)     -0.0636(0.0398)    
+                     Financials -1       Industrials -1      Materials -1       
+Equation Gold        -0.0299(0.0660)     -0.0042(0.0824)     0.1636(0.0704)*    
+Equation Silver      -0.2177(0.1340)     -0.2610(0.1674)     0.6711(0.1430)***  
+Equation Cons_discr  0.1128(0.0776)      0.0479(0.0969)      -0.0803(0.0828)    
+Equation Financials  0.0315(0.0604)      0.1309(0.0754).     -0.0861(0.0645)    
+Equation Industrials 0.0728(0.0585)      0.0464(0.0731)      -0.0531(0.0625)    
+Equation Materials   0.0155(0.0613)      0.0611(0.0766)      -0.0244(0.0655)    

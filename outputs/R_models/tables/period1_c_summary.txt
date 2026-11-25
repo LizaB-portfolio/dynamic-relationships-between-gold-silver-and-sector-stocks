@@ -1,0 +1,159 @@
+
+VAR Estimation Results:
+========================= 
+Endogenous variables: Gold, Silver, Cons_discr, Financials, Industrials, Materials 
+Deterministic variables: const 
+Sample size: 713 
+Log Likelihood: -4922.369 
+Roots of the characteristic polynomial:
+0.343 0.1399 0.09517 0.09517 0.06193 0.06193
+Call:
+vars::VAR(y = as.data.frame(y), p = 1, type = "const")
+
+
+Estimation results for equation Gold: 
+===================================== 
+Gold = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)    
+Gold.l1        -0.072417   0.050837  -1.424 0.154749    
+Silver.l1       0.003083   0.031946   0.097 0.923150    
+Cons_discr.l1   0.008093   0.100442   0.081 0.935807    
+Financials.l1  -0.033684   0.090329  -0.373 0.709331    
+Industrials.l1 -0.303949   0.113579  -2.676 0.007621 ** 
+Materials.l1    0.298749   0.084872   3.520 0.000459 ***
+const          -0.052569   0.046050  -1.142 0.254025    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.218 on 706 degrees of freedom
+Multiple R-Squared: 0.02103,	Adjusted R-squared: 0.01271 
+F-statistic: 2.528 on 6 and 706 DF,  p-value: 0.01989 
+
+
+Estimation results for equation Silver: 
+======================================= 
+Silver = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)    
+Gold.l1         0.52987    0.07442   7.120 2.66e-12 ***
+Silver.l1      -0.33814    0.04676  -7.231 1.25e-12 ***
+Cons_discr.l1  -0.30665    0.14703  -2.086   0.0374 *  
+Financials.l1   0.06041    0.13223   0.457   0.6479    
+Industrials.l1 -0.40216    0.16626  -2.419   0.0158 *  
+Materials.l1    0.69848    0.12424   5.622 2.72e-08 ***
+const          -0.09103    0.06741  -1.350   0.1773    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.782 on 706 degrees of freedom
+Multiple R-Squared: 0.1398,	Adjusted R-squared: 0.1325 
+F-statistic: 19.12 on 6 and 706 DF,  p-value: < 2.2e-16 
+
+
+Estimation results for equation Cons_discr: 
+=========================================== 
+Cons_discr = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)   
+Gold.l1        -0.01636    0.03924  -0.417  0.67691   
+Silver.l1       0.02135    0.02466   0.866  0.38693   
+Cons_discr.l1  -0.09672    0.07754  -1.247  0.21266   
+Financials.l1   0.04982    0.06973   0.715  0.47514   
+Industrials.l1 -0.12504    0.08768  -1.426  0.15428   
+Materials.l1    0.14580    0.06552   2.225  0.02637 * 
+const           0.10249    0.03555   2.883  0.00406 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 0.9399 on 706 degrees of freedom
+Multiple R-Squared: 0.01061,	Adjusted R-squared: 0.002198 
+F-statistic: 1.261 on 6 and 706 DF,  p-value: 0.273 
+
+
+Estimation results for equation Financials: 
+=========================================== 
+Financials = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)  
+Gold.l1        -0.033784   0.043511  -0.776   0.4377  
+Silver.l1       0.008843   0.027342   0.323   0.7465  
+Cons_discr.l1  -0.100529   0.085967  -1.169   0.2426  
+Financials.l1  -0.023304   0.077311  -0.301   0.7632  
+Industrials.l1 -0.119800   0.097211  -1.232   0.2182  
+Materials.l1    0.156330   0.072641   2.152   0.0317 *
+const           0.092634   0.039414   2.350   0.0190 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.042 on 706 degrees of freedom
+Multiple R-Squared: 0.01253,	Adjusted R-squared: 0.004134 
+F-statistic: 1.493 on 6 and 706 DF,  p-value: 0.1779 
+
+
+Estimation results for equation Industrials: 
+============================================ 
+Industrials = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)  
+Gold.l1        -0.01331    0.04062  -0.328   0.7433  
+Silver.l1       0.01615    0.02553   0.633   0.5271  
+Cons_discr.l1  -0.04703    0.08026  -0.586   0.5580  
+Financials.l1   0.04998    0.07217   0.693   0.4888  
+Industrials.l1 -0.20987    0.09075  -2.313   0.0210 *
+Materials.l1    0.15905    0.06781   2.345   0.0193 *
+const           0.06474    0.03680   1.760   0.0789 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 0.9729 on 706 degrees of freedom
+Multiple R-Squared: 0.01265,	Adjusted R-squared: 0.004257 
+F-statistic: 1.507 on 6 and 706 DF,  p-value: 0.1729 
+
+
+Estimation results for equation Materials: 
+========================================== 
+Materials = Gold.l1 + Silver.l1 + Cons_discr.l1 + Financials.l1 + Industrials.l1 + Materials.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)  
+Gold.l1         0.05022    0.04582   1.096   0.2735  
+Silver.l1      -0.01588    0.02879  -0.551   0.5815  
+Cons_discr.l1  -0.05930    0.09053  -0.655   0.5127  
+Financials.l1   0.10319    0.08142   1.267   0.2054  
+Industrials.l1 -0.17822    0.10238  -1.741   0.0821 .
+Materials.l1    0.09277    0.07650   1.213   0.2257  
+const           0.03640    0.04151   0.877   0.3808  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.097 on 706 degrees of freedom
+Multiple R-Squared: 0.009306,	Adjusted R-squared: 0.0008866 
+F-statistic: 1.105 on 6 and 706 DF,  p-value: 0.3575 
+
+
+
+Covariance matrix of residuals:
+               Gold Silver Cons_discr Financials Industrials Materials
+Gold        1.48242 1.5168    0.03109    0.02604      0.0820    0.2327
+Silver      1.51679 3.1765    0.14032    0.07390      0.1507    0.2564
+Cons_discr  0.03109 0.1403    0.88339    0.81285      0.7690    0.8039
+Financials  0.02604 0.0739    0.81285    1.08594      0.8542    0.8948
+Industrials 0.08200 0.1507    0.76900    0.85417      0.9464    0.9115
+Materials   0.23273 0.2564    0.80386    0.89482      0.9115    1.2044
+
+Correlation matrix of residuals:
+               Gold  Silver Cons_discr Financials Industrials Materials
+Gold        1.00000 0.69898    0.02717    0.02052     0.06923    0.1742
+Silver      0.69898 1.00000    0.08377    0.03979     0.08694    0.1311
+Cons_discr  0.02717 0.08377    1.00000    0.82991     0.84102    0.7793
+Financials  0.02052 0.03979    0.82991    1.00000     0.84254    0.7824
+Industrials 0.06923 0.08694    0.84102    0.84254     1.00000    0.8538
+Materials   0.17418 0.13110    0.77933    0.78244     0.85376    1.0000
+
+

@@ -1,0 +1,153 @@
+
+VAR Estimation Results:
+========================= 
+Endogenous variables: Gold, Silver, Inf_tech, Real_estate, Telecom, Energy 
+Deterministic variables: const 
+Sample size: 280 
+Log Likelihood: -2609.39 
+Roots of the characteristic polynomial:
+0.2234 0.2234 0.1577 0.1577 0.08105 0.01283
+Call:
+vars::VAR(y = as.data.frame(y), p = 1, type = "const")
+
+
+Estimation results for equation Gold: 
+===================================== 
+Gold = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)   
+Gold.l1        -0.06422    0.07081  -0.907  0.36527   
+Silver.l1       0.02434    0.04143   0.587  0.55740   
+Inf_tech.l1    -0.23553    0.07492  -3.144  0.00185 **
+Real_estate.l1  0.08383    0.07237   1.158  0.24775   
+Telecom.l1      0.14209    0.07889   1.801  0.07280 . 
+Energy.l1       0.03850    0.04539   0.848  0.39705   
+const           0.01546    0.06568   0.235  0.81411   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.097 on 273 degrees of freedom
+Multiple R-Squared: 0.04244,	Adjusted R-squared: 0.0214 
+F-statistic: 2.017 on 6 and 273 DF,  p-value: 0.06363 
+
+
+Estimation results for equation Silver: 
+======================================= 
+Silver = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)    
+Gold.l1         0.58892    0.11184   5.266 2.83e-07 ***
+Silver.l1      -0.17635    0.06544  -2.695  0.00747 ** 
+Inf_tech.l1    -0.03852    0.11833  -0.326  0.74505    
+Real_estate.l1  0.18121    0.11431   1.585  0.11405    
+Telecom.l1      0.13005    0.12460   1.044  0.29754    
+Energy.l1       0.08577    0.07169   1.197  0.23253    
+const           0.01503    0.10374   0.145  0.88494    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.732 on 273 degrees of freedom
+Multiple R-Squared:  0.14,	Adjusted R-squared: 0.1211 
+F-statistic:  7.41 on 6 and 273 DF,  p-value: 2.321e-07 
+
+
+Estimation results for equation Inf_tech: 
+========================================= 
+Inf_tech = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)
+Gold.l1        -0.029603   0.083466  -0.355    0.723
+Silver.l1      -0.072921   0.048835  -1.493    0.137
+Inf_tech.l1     0.010030   0.088308   0.114    0.910
+Real_estate.l1  0.008108   0.085307   0.095    0.924
+Telecom.l1     -0.146895   0.092989  -1.580    0.115
+Energy.l1       0.041927   0.053499   0.784    0.434
+const           0.058982   0.077418   0.762    0.447
+
+
+Residual standard error: 1.293 on 273 degrees of freedom
+Multiple R-Squared: 0.02982,	Adjusted R-squared: 0.008501 
+F-statistic: 1.399 on 6 and 273 DF,  p-value: 0.2152 
+
+
+Estimation results for equation Real_estate: 
+============================================ 
+Real_estate = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+                Estimate Std. Error t value Pr(>|t|)  
+Gold.l1         0.066708   0.079553   0.839   0.4025  
+Silver.l1      -0.062960   0.046546  -1.353   0.1773  
+Inf_tech.l1     0.163840   0.084168   1.947   0.0526 .
+Real_estate.l1  0.010005   0.081307   0.123   0.9022  
+Telecom.l1     -0.114908   0.088629  -1.297   0.1959  
+Energy.l1       0.017580   0.050991   0.345   0.7305  
+const           0.003054   0.073788   0.041   0.9670  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Residual standard error: 1.232 on 273 degrees of freedom
+Multiple R-Squared: 0.02967,	Adjusted R-squared: 0.008344 
+F-statistic: 1.391 on 6 and 273 DF,  p-value: 0.2181 
+
+
+Estimation results for equation Telecom: 
+======================================== 
+Telecom = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)
+Gold.l1        -0.02026    0.07366  -0.275    0.784
+Silver.l1      -0.05810    0.04310  -1.348    0.179
+Inf_tech.l1    -0.03076    0.07794  -0.395    0.693
+Real_estate.l1  0.08572    0.07529   1.139    0.256
+Telecom.l1     -0.06955    0.08207  -0.848    0.397
+Energy.l1       0.03372    0.04722   0.714    0.476
+const           0.05919    0.06833   0.866    0.387
+
+
+Residual standard error: 1.141 on 273 degrees of freedom
+Multiple R-Squared: 0.01759,	Adjusted R-squared: -0.003999 
+F-statistic: 0.8148 on 6 and 273 DF,  p-value: 0.5592 
+
+
+Estimation results for equation Energy: 
+======================================= 
+Energy = Gold.l1 + Silver.l1 + Inf_tech.l1 + Real_estate.l1 + Telecom.l1 + Energy.l1 + const 
+
+               Estimate Std. Error t value Pr(>|t|)
+Gold.l1        -0.08793    0.11577  -0.759    0.448
+Silver.l1      -0.04156    0.06774  -0.614    0.540
+Inf_tech.l1     0.03899    0.12249   0.318    0.750
+Real_estate.l1  0.09731    0.11833   0.822    0.412
+Telecom.l1     -0.19999    0.12898  -1.551    0.122
+Energy.l1      -0.01082    0.07421  -0.146    0.884
+const           0.05126    0.10738   0.477    0.633
+
+
+Residual standard error: 1.793 on 273 degrees of freedom
+Multiple R-Squared: 0.01961,	Adjusted R-squared: -0.001936 
+F-statistic: 0.9102 on 6 and 273 DF,  p-value: 0.4879 
+
+
+
+Covariance matrix of residuals:
+               Gold  Silver Inf_tech Real_estate Telecom  Energy
+Gold         1.2028 1.03024 -0.21273      0.1068  0.1387 -0.0277
+Silver       1.0302 3.00045  0.03472      0.1835  0.3191  0.3537
+Inf_tech    -0.2127 0.03472  1.67111      0.9402  0.8184  1.3082
+Real_estate  0.1068 0.18351  0.94017      1.5181  0.8582  0.8520
+Telecom      0.1387 0.31907  0.81842      0.8582  1.3017  0.8911
+Energy      -0.0277 0.35371  1.30819      0.8520  0.8911  3.2152
+
+Correlation matrix of residuals:
+                Gold  Silver Inf_tech Real_estate Telecom   Energy
+Gold         1.00000 0.54231 -0.15005     0.07903  0.1108 -0.01409
+Silver       0.54231 1.00000  0.01551     0.08598  0.1615  0.11388
+Inf_tech    -0.15005 0.01551  1.00000     0.59027  0.5549  0.56437
+Real_estate  0.07903 0.08598  0.59027     1.00000  0.6105  0.38566
+Telecom      0.11083 0.16145  0.55491     0.61050  1.0000  0.43557
+Energy      -0.01409 0.11388  0.56437     0.38566  0.4356  1.00000
+
+
