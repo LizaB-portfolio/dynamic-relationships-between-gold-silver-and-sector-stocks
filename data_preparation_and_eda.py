@@ -36,16 +36,49 @@ GROUPS = {
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / 'data_raw'
 
-def load_series(file: str, col: str) -> pd.DataFrame:
+def load_series(file: str, col: str) -> pd.Series:
+
     file_path = DATA_DIR / file
     df = pd.read_excel(file_path)
-    df.columns = ['Date', col]
-    df['Date'] = pd.to_datetime(df['Date'])
-    df[col] = pd.to_numeric(
-        df[col].astype(str).str.replace(',', '.'),
-        errors='coerce'
+
+    if df.shape[1] != 2:
+        raise ValueError(
+            f"{file}: expected exactly 2 columns"
+        )
+
+    df.columns = ["Date", col]
+
+    df["Date"] = pd.to_datetime(
+        df["Date"],
+        errors="coerce"
     )
-    return df.set_index('Date')
+
+    df[col] = pd.to_numeric(
+        df[col].astype(str).str.replace(
+            ",", ".", regex=False
+        ),
+        errors="coerce"
+    )
+
+    if df["Date"].isna().any():
+        raise ValueError(f"Invalid dates in {file}")
+
+    if df[col].isna().any():
+        raise ValueError(f"Invalid prices in {file}")
+
+    if df["Date"].duplicated().any():
+        raise ValueError(f"Duplicate dates in {file}")
+
+    if not np.isfinite(df[col]).all():
+        raise ValueError(f"Non-finite prices in {file}")
+
+    if (df[col] <= 0).any():
+        raise ValueError(f"Non-positive prices in {file}")
+
+    return (
+        df.set_index("Date")[col]
+        .sort_index()
+    )
 
 series = {col: load_series(file, col) for file, col in FILES.items()}
 panels = {}
@@ -493,8 +526,8 @@ for asset in EXPECTED_ASSETS:
 
     # Извлекаем цены и приводим их к числовому формату
     prices = pd.to_numeric(
-        series[asset][asset],
-        errors='coerce'
+    series[asset],
+    errors='coerce'
     )
 
     # Сортировка дат по возрастанию

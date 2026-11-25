@@ -1,0 +1,22 @@
+"dataset","period","group","n_obs","n_variables","start_date","end_date","var_order_levels","vecm_lagged_differences","deterministic_specification","alpha","trace_rank_5pct","max_eigen_rank_5pct","ranks_agree"
+"levels1_c",1,"c",715,6,"2012-01-23","2015-07-31",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels2_c",2,"c",281,6,"2015-08-03","2016-12-28",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels3_c",3,"c",649,6,"2017-01-03","2019-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels4_c",4,"c",225,6,"2020-01-02","2020-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,1,0,FALSE
+"levels5_c",5,"c",255,6,"2021-01-04","2022-02-18",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels6_c",6,"c",190,6,"2022-02-23","2022-12-29",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels7_c",7,"c",784,6,"2023-01-03","2026-05-26",2,1,"Case II: restricted constant in cointegration relation",0.05,1,1,TRUE
+"levels1_d",1,"d",725,5,"2012-01-05","2015-07-31",2,1,"Case II: restricted constant in cointegration relation",0.05,1,0,FALSE
+"levels2_d",2,"d",281,5,"2015-08-03","2016-12-28",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels3_d",3,"d",649,5,"2017-01-03","2019-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels4_d",4,"d",225,5,"2020-01-02","2020-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,1,1,TRUE
+"levels5_d",5,"d",255,5,"2021-01-04","2022-02-18",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels6_d",6,"d",191,5,"2022-02-23","2022-12-29",2,1,"Case II: restricted constant in cointegration relation",0.05,1,1,TRUE
+"levels7_d",7,"d",783,5,"2023-01-03","2026-05-26",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels1_m",1,"m",715,6,"2012-01-23","2015-07-31",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels2_m",2,"m",281,6,"2015-08-03","2016-12-28",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels3_m",3,"m",649,6,"2017-01-03","2019-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels4_m",4,"m",225,6,"2020-01-02","2020-12-30",2,1,"Case II: restricted constant in cointegration relation",0.05,1,0,FALSE
+"levels5_m",5,"m",256,6,"2021-01-04","2022-02-18",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels6_m",6,"m",192,6,"2022-02-23","2022-12-29",2,1,"Case II: restricted constant in cointegration relation",0.05,0,0,TRUE
+"levels7_m",7,"m",784,6,"2023-01-03","2026-05-26",2,1,"Case II: restricted constant in cointegration relation",0.05,1,0,FALSE
