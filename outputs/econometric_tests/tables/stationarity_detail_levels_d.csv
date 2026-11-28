@@ -29,8 +29,8 @@ log_levels,d,6,Silver,191,2022-02-23,2022-12-29,ct,-0.7157,0.9721,0,0.4323,0.01,
 log_levels,d,6,Cons_staples,191,2022-02-23,2022-12-29,ct,-2.0022,0.6002,0,0.1513,0.0456,9,non_stationary
 log_levels,d,6,Health,191,2022-02-23,2022-12-29,ct,-2.2201,0.4785,0,0.2323,0.01,9,non_stationary
 log_levels,d,6,Utilities,191,2022-02-23,2022-12-29,ct,-2.4853,0.3353,0,0.1065,0.1,9,inconclusive
-log_levels,d,7,Gold,783,2023-01-03,2026-05-26,ct,-2.5464,0.3051,0,0.7655,0.01,17,non_stationary
-log_levels,d,7,Silver,783,2023-01-03,2026-05-26,ct,-2.1605,0.5121,0,0.7432,0.01,17,non_stationary
-log_levels,d,7,Cons_staples,783,2023-01-03,2026-05-26,ct,-3.0727,0.1129,0,0.2576,0.01,17,non_stationary
-log_levels,d,7,Health,783,2023-01-03,2026-05-26,ct,-2.5426,0.307,0,0.3251,0.01,17,non_stationary
-log_levels,d,7,Utilities,783,2023-01-03,2026-05-26,ct,-3.188,0.0868,0,0.3904,0.01,17,non_stationary
+log_levels,d,7,Gold,784,2023-01-03,2026-05-26,ct,-2.5363,0.3101,0,0.7643,0.01,17,non_stationary
+log_levels,d,7,Silver,784,2023-01-03,2026-05-26,ct,-2.1556,0.5149,0,0.7451,0.01,17,non_stationary
+log_levels,d,7,Cons_staples,784,2023-01-03,2026-05-26,ct,-3.0787,0.1114,0,0.2547,0.01,17,non_stationary
+log_levels,d,7,Health,784,2023-01-03,2026-05-26,ct,-2.5475,0.3047,0,0.3234,0.01,17,non_stationary
+log_levels,d,7,Utilities,784,2023-01-03,2026-05-26,ct,-3.1898,0.0865,0,0.3899,0.01,17,non_stationary

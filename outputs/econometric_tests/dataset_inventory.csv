@@ -12,7 +12,7 @@ period3_d,returns,3,d,649,5,2017-01-03,2019-12-30
 period4_d,returns,4,d,225,5,2020-01-02,2020-12-30
 period5_d,returns,5,d,255,5,2021-01-04,2022-02-18
 period6_d,returns,6,d,191,5,2022-02-23,2022-12-29
-period7_d,returns,7,d,783,5,2023-01-03,2026-05-26
+period7_d,returns,7,d,784,5,2023-01-03,2026-05-26
 period1_m,returns,1,m,714,6,2012-01-24,2015-07-31
 period2_m,returns,2,m,281,6,2015-08-03,2016-12-28
 period3_m,returns,3,m,649,6,2017-01-03,2019-12-30
@@ -33,7 +33,7 @@ levels3_d,log_levels,3,d,649,5,2017-01-03,2019-12-30
 levels4_d,log_levels,4,d,225,5,2020-01-02,2020-12-30
 levels5_d,log_levels,5,d,255,5,2021-01-04,2022-02-18
 levels6_d,log_levels,6,d,191,5,2022-02-23,2022-12-29
-levels7_d,log_levels,7,d,783,5,2023-01-03,2026-05-26
+levels7_d,log_levels,7,d,784,5,2023-01-03,2026-05-26
 levels1_m,log_levels,1,m,715,6,2012-01-23,2015-07-31
 levels2_m,log_levels,2,m,281,6,2015-08-03,2016-12-28
 levels3_m,log_levels,3,m,649,6,2017-01-03,2019-12-30
